@@ -3,77 +3,99 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Daily News Digest</title>
+  <title>前一天国内新闻日报</title>
   <style>
     :root {
       --bg: #efe7da;
-      --paper: #fffdf9;
+      --paper: rgba(255, 253, 249, 0.9);
+      --paper-strong: #fffdf9;
       --ink: #201a17;
       --muted: #6f6359;
       --accent: #9f1d2c;
+      --accent-soft: #efe2cf;
       --border: #dbcfc0;
+      --shadow: 0 20px 60px rgba(89, 60, 38, 0.08);
+    }
+    html {
+      scroll-behavior: smooth;
     }
     body {
       margin: 0;
       color: var(--ink);
       font-family: "Noto Serif SC", "Songti SC", serif;
       background:
-        linear-gradient(135deg, rgba(159, 29, 44, 0.08), transparent 35%),
-        linear-gradient(180deg, #f7f1e7, #ede1d0);
+        radial-gradient(circle at top left, rgba(159, 29, 44, 0.1), transparent 24%),
+        radial-gradient(circle at bottom right, rgba(205, 165, 102, 0.16), transparent 24%),
+        linear-gradient(180deg, #f8f1e7, #efe3d1);
     }
     main {
-      max-width: 1040px;
+      max-width: 1100px;
       margin: 0 auto;
-      padding: 36px 20px 48px;
+      padding: 40px 20px 56px;
     }
     header {
-      display: grid;
-      gap: 10px;
       margin-bottom: 24px;
     }
     h1 {
-      margin: 0;
-      font-size: 40px;
-      letter-spacing: 0.02em;
+      margin: 0 0 10px;
+      font-size: clamp(34px, 5vw, 54px);
+      letter-spacing: 0.03em;
       color: var(--accent);
     }
-    p {
-      margin: 0;
+    .subtitle {
       color: var(--muted);
+      font-size: 17px;
     }
     .hero {
       background: var(--paper);
       border: 1px solid var(--border);
-      border-radius: 24px;
+      border-radius: 28px;
       padding: 28px;
-      box-shadow: 0 20px 60px rgba(89, 60, 38, 0.08);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
     }
-    .cards {
+    .stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 14px;
-      margin: 22px 0;
+      margin: 18px 0 22px;
     }
-    .card {
-      background: #f7efe2;
+    .stat-card {
+      text-decoration: none;
+      color: inherit;
+      background: linear-gradient(180deg, #f5ecdf, #f1e6d7);
       border: 1px solid var(--border);
-      border-radius: 18px;
-      padding: 18px;
+      border-radius: 20px;
+      padding: 18px 18px 16px;
       display: grid;
       gap: 8px;
+      transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
     }
-    .card strong {
-      font-size: 18px;
+    .stat-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 26px rgba(89, 60, 38, 0.08);
+      border-color: #cfae80;
+    }
+    .stat-card strong {
+      font-size: 28px;
+      color: #2b221d;
+    }
+    .stat-card span {
+      font-size: 26px;
+      color: var(--accent);
+    }
+    .stat-card small {
+      color: var(--muted);
+      font-size: 13px;
     }
     .actions {
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
-      margin-top: 10px;
     }
     .button {
       text-decoration: none;
-      padding: 10px 16px;
+      padding: 11px 18px;
       border-radius: 999px;
       border: 1px solid var(--accent);
       color: white;
@@ -83,25 +105,106 @@
       background: transparent;
       color: var(--accent);
     }
-    section {
-      margin-top: 24px;
-      background: var(--paper);
+    .overview {
+      margin-top: 26px;
+      display: grid;
+      gap: 18px;
+    }
+    .section-panel {
+      background: var(--paper-strong);
       border: 1px solid var(--border);
-      border-radius: 24px;
+      border-radius: 28px;
       padding: 24px;
+      box-shadow: var(--shadow);
+      scroll-margin-top: 24px;
     }
-    ul {
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: flex-start;
+      margin-bottom: 18px;
+    }
+    .section-head h2 {
+      margin: 0 0 6px;
+      font-size: 34px;
+      color: #241d18;
+    }
+    .section-head p {
       margin: 0;
-      padding-left: 20px;
-    }
-    li {
-      margin: 0 0 12px;
-    }
-    li span {
-      display: block;
       color: var(--muted);
+      max-width: 760px;
+      line-height: 1.7;
+    }
+    .section-count {
+      flex: none;
       font-size: 14px;
-      margin-top: 4px;
+      color: var(--accent);
+      background: var(--accent-soft);
+      border-radius: 999px;
+      padding: 8px 12px;
+    }
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .news-card {
+      background: #fbf6ee;
+      border: 1px solid #e4d7c8;
+      border-radius: 20px;
+      padding: 18px;
+      display: grid;
+      gap: 10px;
+    }
+    .news-meta {
+      color: var(--muted);
+      font-size: 13px;
+      letter-spacing: 0.02em;
+    }
+    .news-card h3 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.45;
+    }
+    .news-card a {
+      color: #1f2b7b;
+      text-decoration: none;
+    }
+    .news-card a:hover {
+      text-decoration: underline;
+    }
+    .news-card p {
+      margin: 0;
+      color: #3f352e;
+      line-height: 1.8;
+      font-size: 15px;
+    }
+    .empty {
+      color: var(--muted);
+      margin: 0;
+      font-size: 15px;
+    }
+    @media (max-width: 720px) {
+      main {
+        padding: 28px 14px 40px;
+      }
+      .hero, .section-panel {
+        padding: 18px;
+        border-radius: 22px;
+      }
+      .section-head {
+        flex-direction: column;
+      }
+      .section-head h2 {
+        font-size: 28px;
+      }
+      .stat-card strong {
+        font-size: 24px;
+      }
+      .stat-card span {
+        font-size: 22px;
+      }
     }
   </style>
 </head>
@@ -109,26 +212,130 @@
   <main>
     <header>
       <h1>前一天国内新闻日报</h1>
-      <p>最新一期日期：2026-03-17 | 生成时间：2026-03-18T11:28:14.557815+08:00</p>
+      <div class="subtitle">最新一期日期：2026-03-24 | 生成时间：2026-03-25T15:48:19.132300+08:00</div>
     </header>
-    <div class="hero">
-      <div class="cards"><div class='card'><strong>重要时政</strong><span>6 条</span></div>
-<div class='card'><strong>政策发布</strong><span>2 条</span></div>
-<div class='card'><strong>地方热点</strong><span>0 条</span></div>
-<div class='card'><strong>评论文章</strong><span>4 条</span></div></div>
+    <section class="hero">
+      <div class="stats">
+        <a class="stat-card" href="#top-politics">
+          <strong>重要时政</strong>
+          <span>0 条</span>
+          <small>点击查看板块内容</small>
+        </a>
+        
+        <a class="stat-card" href="#policy">
+          <strong>政策发布</strong>
+          <span>0 条</span>
+          <small>点击查看板块内容</small>
+        </a>
+        
+        <a class="stat-card" href="#regional">
+          <strong>地方热点</strong>
+          <span>5 条</span>
+          <small>点击查看板块内容</small>
+        </a>
+        
+        <a class="stat-card" href="#comments">
+          <strong>评论文章</strong>
+          <span>1 条</span>
+          <small>点击查看板块内容</small>
+        </a>
+        </div>
       <div class="actions">
-        <a class="button" href="daily-news-digest-2026-03-17.html">打开完整日报</a>
+        <a class="button" href="daily-news-digest-2026-03-24.html">打开完整日报</a>
         <a class="button secondary" href="latest.json">查看 JSON</a>
       </div>
-    </div>
-    <section>
-      <h2>今日重点</h2>
-      <ul><li><a href='https://www.news.cn/politics/xbmfjg/index.htm' target='_blank' rel='noreferrer'>中央和国家机关建设让党中央放心、让人民群众满意的模范机关</a><span>新华社</span></li>
-<li><a href='https://www.news.cn/zt/gz2026qglh/index.html' target='_blank' rel='noreferrer'>2026年全国两会</a><span>新华社</span></li>
-<li><a href='https://news.cctv.com/2026/03/18/ARTIUbruFelEcJktgPILTNAv260318.shtml' target='_blank' rel='noreferrer'>儿童友好建设 如何在全社会推进？来看解读</a><span>央视网</span></li>
-<li><a href='https://www.news.cn/zt/slhjxzqzjg/index.html' target='_blank' rel='noreferrer'>树立和践行正确政绩观</a><span>新华社</span></li>
-<li><a href='https://www.news.cn/zt/2026cjzt/index.html' target='_blank' rel='noreferrer'>情满中国年—2026年春节</a><span>新华社</span></li></ul>
     </section>
+    <div class="overview">
+      
+      <section class="section-panel" id="top-politics">
+        <div class="section-head">
+          <div>
+            <h2>重要时政</h2>
+            <p>优先展示全国层面的重要动态和代表性事件</p>
+          </div>
+          <span class="section-count">0 条</span>
+        </div>
+        <div class="news-grid">
+          <p class='empty'>暂无内容</p>
+        </div>
+      </section>
+    
+      <section class="section-panel" id="policy">
+        <div class="section-head">
+          <div>
+            <h2>政策发布</h2>
+            <p>聚焦政策、方案、办法、意见和权威解读</p>
+          </div>
+          <span class="section-count">0 条</span>
+        </div>
+        <div class="news-grid">
+          <p class='empty'>暂无内容</p>
+        </div>
+      </section>
+    
+      <section class="section-panel" id="regional">
+        <div class="section-head">
+          <div>
+            <h2>地方热点</h2>
+            <p>只保留当天有代表性的地区样本，宁缺毋滥</p>
+          </div>
+          <span class="section-count">5 条</span>
+        </div>
+        <div class="news-grid">
+          
+      <article class="news-card">
+        <div class="news-meta">首都之窗 | 2026-03-25 | 北京</div>
+        <h3><a href="https://www.beijing.gov.cn/ywdt/hyxx/szf/202603/t20260325_4565351.html" target="_blank" rel="noreferrer">市政府召开常务会议 研究推进国际科技创新中心建设有关工作等事项</a></h3>
+        <p>市长殷勇主持会议 昨天下午，市政府召开常务会议，研究推进国际科技创新中心建设有关工作等事项；会议强调，要深入贯彻习近平总书记考察北京重要讲话精神，进一步增强责任感、紧迫感，加强顶层设计，把握战略方向，强化前瞻研究，着力打通制约创新的裉节堵点，充分发挥市场在科技资源配置中的决定性作用，更好发挥政府各方面作用，全面增强自主创新能力，为加快实现高水平科技自立自强作</p>
+      </article>
+    
+      <article class="news-card">
+        <div class="news-meta">上海市人民政府 | 2026-03-24 | 上海</div>
+        <h3><a href="https://www.shanghai.gov.cn/nw12344/20260324/fc088d078b87471296047a117f72db1d.html" target="_blank" rel="noreferrer">静安区关于构建现代化产业体系、促进经济高质量发展的若干措施</a></h3>
+        <p>立足静安产业发展基础，进一步集聚优质要素，重点支持本市建设“2+3+6+6”[1] 现代化产业体系，推动本区“（3+3）+（1+3+X）”[2] 现代化产业体系高质量发展；深入践行创新驱动发展战略，以构建高能级创新体系为核心，着力促进产业链、创新链、资金链、人才链深度耦合，优化创新要素集聚、流动和高效配置，营造创新发展优质生态，夯实静安产业创新发展基础</p>
+      </article>
+    
+      <article class="news-card">
+        <div class="news-meta">首都之窗 | 2026-03-25 | 北京</div>
+        <h3><a href="https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260325_4565353.html" target="_blank" rel="noreferrer">攀高向新 赢得未来</a></h3>
+        <p>中关村国家自主创新示范区展示交易中心常设展；（王海欣 摄） 以“科技创新与产业创新深度融合”为年度主题的2026中关村论坛年会盛大开幕</p>
+      </article>
+    
+      <article class="news-card">
+        <div class="news-meta">首都之窗 | 2026-03-25 | 北京</div>
+        <h3><a href="https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260325_4565355.html" target="_blank" rel="noreferrer">企业专场、行业专场、开放麦等精彩纷呈 31场配套活动将亮相中关村论坛年会</a></h3>
+        <p>昨天，2026中关村论坛年会配套活动集体采访举行；据悉，本届中关村论坛年会将围绕企业专场、行业专场和科技文化类活动，共开展31场配套活动</p>
+      </article>
+    
+      <article class="news-card">
+        <div class="news-meta">首都之窗 | 2026-03-25 | 北京</div>
+        <h3><a href="https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260325_4565354.html" target="_blank" rel="noreferrer">“花开北京·2026京津冀全民赏花季”系列生态文化活动将启动 千园之城满城芳菲 城区郊野各美其美</a></h3>
+        <p>京城的春天，因一场场花事而充满了芬芳活力；昨天下午，市人民政府新闻办召开新闻发布会，介绍“花开北京·2026京津冀全民赏花季”系列活动</p>
+      </article>
+    
+        </div>
+      </section>
+    
+      <section class="section-panel" id="comments">
+        <div class="section-head">
+          <div>
+            <h2>评论文章</h2>
+            <p>用于申论学习的评论、时评和政策解读文章</p>
+          </div>
+          <span class="section-count">1 条</span>
+        </div>
+        <div class="news-grid">
+          
+      <article class="news-card">
+        <div class="news-meta">人民网评论 | 2026-03-24</div>
+        <h3><a href="https://opinion.people.com.cn/n1/2026/0324/c436867-40687984.html" target="_blank" rel="noreferrer">人民锐评：国际油价飙升，中国为何稳得住？</a></h3>
+        <p>这段时间，中东紧张局势引发国际油价大幅上涨，环球同此凉热；如何应对油价飞涨，既考验一个国家经济发展韧性，也折射一个国家应对危机的价值排序</p>
+      </article>
+    
+        </div>
+      </section>
+    
+    </div>
   </main>
 </body>
 </html>
