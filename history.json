@@ -2663,6 +2663,54 @@
       "url": "https://www.news.cn/comments/20260327/97bc3bd9ac9b41ca88f05599a2c15396/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "19c914d840c04d9878ff68fb139ccd047c1f6c6a",
+      "title": "春天里的中国 | 万物萌动乐享春光",
+      "url": "https://news.cctv.com/2026/03/29/ARTI0r63rumLxJNplp3pq5IM260329.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "10a62b30e3d70f1bad4146124a7caa4a6ca7b303",
+      "title": "前2个月全国规模以上工业企业利润同比增长15.2%",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202603/content_7064024.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "557eba27193ab3755195e956583d7ed20ea999d5",
+      "title": "中央第一、二、三生态环境保护督察组向北京天津河北反馈大运河生态环境保护专项督察情况",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260327_4568382.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "4cc5300cbab57071762011243c218c62ed4b287e",
+      "title": "科幻想象正在照进现实 二〇二六中国科幻大会在首钢园启幕",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260328_4568584.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "c304b3b98a60ca43e2158001d76bff207ad1a6cb",
+      "title": "数据跨境流动便利化综合配套改革3.0版方案发布 6大领域“一业一策”服务数据流通",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260328_4568582.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-03-28",
+      "fingerprint": "d8ea3104d455a3a1bfe286fa5c3db46a57bffbf7",
+      "title": "人民网观点：以引领力+创造力繁荣网络内容生态",
+      "url": "https://opinion.people.com.cn/n1/2026/0328/c1003-40690696.html",
+      "category": "comments",
+      "source": "人民网评论"
     }
   ]
 }
