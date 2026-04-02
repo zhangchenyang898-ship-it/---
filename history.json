@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-18",
-      "fingerprint": "928e1466f53ae20fb857a52100988dd7619bda0a",
-      "title": "回应公众关切 国家卫健委举办“时令节气与健康”发布会",
-      "url": "https://news.cctv.com/2026/03/19/ARTIQEOrnH8rFYWDpDFGN9bz260318.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "d74d487e013a908bced9e96deec4c07a43dc11f7",
-      "title": "实施更加积极有为的宏观政策 服务业实现较快增长",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063158.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "5099c8921f585bc5bcf0b835657d1b05de62bf3c",
-      "title": "国办关于加强基层消防工作的意见",
-      "url": "https://www.gov.cn/zhengce/content/202603/content_7061164.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "33dfbc2fe73f06cc09ad6bf0846162fec0aac3a8",
-      "title": "习近平会见土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063141.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "9ba4b3879fa9be6788edbb3549df4a707d0b289f",
-      "title": "中办国办关于推进社会工作专业人员队伍建设的意见",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062679.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "33238a89fb6ecb3233fc838eaaa10570ee885c93",
-      "title": "中办国办关于加快革命老区振兴发展的意见",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062598.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "6654bbbc26f479d7b40330bf7e4fa203ec6033a5",
-      "title": "中办国办关于做好第二轮土地承包到期后再延长30年试点工作的意见",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063137.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "9082cc71386b83735f89c7fbe69432af7242aa5d",
-      "title": "《习近平经济文选》第一卷和《习近平与大学生朋友们》第一、二卷繁体版在香港首发",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063122.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "39465eaa9d8f1ad5a84c34a8d4992c7be06db532",
-      "title": "“两新”政策持续显效 激发消费活力",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063159.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "3454d98dbeab70780939a1f69466d71c686e1a9f",
-      "title": "北京出入境窗口统一实行加急服务机制 这七种情形可“速办”签证",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260318_4560315.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-18",
-      "fingerprint": "974336803582a566c47a57e7a6a376fe35ad672c",
-      "title": "120余场时尚活动亮相 2026秋冬北京时装周“全城联动”",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260318_4560169.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-03-19",
       "fingerprint": "c0946a24b7faf31d07060bc54f5a0c8af795025c",
       "title": "全国各省份均已陆续开展免费HPV疫苗接种",
@@ -2029,6 +1941,102 @@
       "fingerprint": "99ed88bccefbbb5c32358e35e012df884222c36b",
       "title": "新华网评：莫让打假变了味",
       "url": "https://www.news.cn/comments/20260331/e72b9f0bf17f4e8989def37fc0e55a1c/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "e7c82c4dbeca701bdd421f39e739b7731249e926",
+      "title": "清明假期将至 两部门部署做好假期前后安全防范工作",
+      "url": "https://news.cctv.com/2026/04/02/ARTIHvgMGiY2Bc1cusWWf5D3260402.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "e9290f2651cd166b5fb3405078f991d545f54b4f",
+      "title": "2026年3月份我国制造业PMI升至50.4%",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202603/content_7064301.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "a90717f7cbca8e13d203e47109c0973628299a23",
+      "title": "尹力在全市安全生产工作部署会议上强调 确保城市安全运行社会和谐稳定",
+      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202604/t20260402_4572723.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "32f5f4b590230f6c41ea91a246710e9ad7b02588",
+      "title": "上海市促进长三角政务服务“一网通办”规定",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260401/b83261592788473788f20e95dc2ec690.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "ce8bbad05d30af5b664b915b7f643b21353e08ed",
+      "title": "市政府召开常务会议 研究二〇二五年“七有”“五性”监测评价报告等事项",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260402_4572727.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "36269a623e31c7d01cbb0e23445de2fa527ef132",
+      "title": "中美引领人工智能产业发展 北京成为全球AI创新“极核”",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260402_4572729.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "a9459b6e404edc10d80a0a0331b24c3e6ca8425e",
+      "title": "116家企业总估值7419亿美元 北京独角兽企业实现“双领跑”",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260402_4572728.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "8f3529327cd3015c550fc84ddc4b2357de97cdfd",
+      "title": "人民锐评：共同维护开放合作的国际学术交流环境",
+      "url": "https://opinion.people.com.cn/n1/2026/0402/c436867-40693737.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "59563c4e05700e081b23077c9d2da38d36af9e86",
+      "title": "新华网评：做难而正确的事，时间终会证明",
+      "url": "https://www.news.cn/comments/20260401/5c8f16bee84d418686ccc25543aea125/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "2e81ba7779f18bbcc477e310424b7fbe36388d65",
+      "title": "完善安全教育体系 护航青少年成长",
+      "url": "https://www.news.cn/comments/20260401/b72d181e9e1a496fa47068ee58677f6f/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "db7a35426227ee86e170c22af0de41192acc6a53",
+      "title": "体验经济，释放消费潜能新引擎",
+      "url": "https://www.news.cn/comments/20260401/9d2affea16f84e8dad86bc53131c6cba/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-01",
+      "fingerprint": "ac1707698dcdf87160002409e3c35ab9f9073741",
+      "title": "AI应用不可突破红线",
+      "url": "https://www.news.cn/comments/20260401/49f16479f599409da160e1fb3da46495/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
