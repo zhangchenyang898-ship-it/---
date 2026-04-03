@@ -1,254 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-19",
-      "fingerprint": "c0946a24b7faf31d07060bc54f5a0c8af795025c",
-      "title": "全国各省份均已陆续开展免费HPV疫苗接种",
-      "url": "https://www.news.cn/local/20260318/dd43b43255e84ee0b54c249fa0efb590/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "7e1893b984818a2cba8d98e0e0a37c7e36ef57be",
-      "title": "春分食春味！5道时令春菜，一口吃掉整个春天",
-      "url": "https://www.news.cn/politics/20260320/dd437865cc434e25bb973b9bf3d3f1f1/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "041d14443fb8459e5eec52e3171ac09c34b09746",
-      "title": "近五年来，涉未成年人犯罪首次呈现“双下降”",
-      "url": "https://www.news.cn/legal/20260319/fce1f4c3be3447f98c7eddf7c3513df3/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "0ab4c0f3a793a4645a35f74b0ef806002d3289b7",
-      "title": "守护“城市奔跑者”奋斗路——全方位夯实新就业群体权益保障根基",
-      "url": "https://www.news.cn/politics/20260319/b8a353d2371145e28c162af8b64da3f2/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "87c1d1b2e6d41e7b4cc5b180800c3b01591776da",
-      "title": "城市在中华文明中的地位与作用",
-      "url": "https://www.news.cn/politics/20260319/361e74a843d4409f961f0a2e09c2f05c/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "aa5b708356f4344b3811cf43236ef89b75de8238",
-      "title": "以文化产业高质量发展激发中华优秀传统文化活力",
-      "url": "https://www.news.cn/politics/20260319/157f10815f534b2fb72a744b5fdfc628/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "db8f591ff14911f63996f7795e92a8792b5b9c25",
-      "title": "“隐秘的角落”罪恶的深渊",
-      "url": "https://www.news.cn/legal/20260319/ec61dc8d6c524c58bac5293c3e8b0c15/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "f115c918d79935c37503b3e1d46cf406900a628f",
-      "title": "这堂思政课，在“爱国三问”碑前开讲",
-      "url": "https://www.news.cn/local/20260318/103d90ec816c42bba0ab164de1565565/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "4dae8a16b4e71644198ee1c1c88cf8e49c586290",
-      "title": "2026年中央财政强农惠农富农政策清单发布",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063248.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "2580b413e204ff8557cd6806ff07cf414f997991",
-      "title": "全面深入贯彻国家发展规划法 进一步彰显中国特色社会主义制度重要政治优势",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260319_1404238.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "881537c366d46be954e201a9206b81d9eec6151e",
-      "title": "国务院关于同意将四川省眉山市列为国家历史文化名城的批复",
-      "url": "https://www.gov.cn/zhengce/content/202603/content_7063204.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "09205d00d8504ce71041459e968a9130e2569e8f",
-      "title": "前2个月全国一般公共预算收入同比增长0.7%",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063219.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "2e6d4aab0bffa50a5efe5d2a0788f3583f9baa44",
-      "title": "国家发展改革委规划司负责同志就国家发展规划法答记者问",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260319_1404242.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "508553278c84a9287f3fb4524ada86711310a7b9",
-      "title": "科技赋能 各地不断夯实粮食丰收基础",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063095.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "b162bc2159c3b8cdcdedc1debd68feca8c80fa20",
-      "title": "总书记的人民情怀 | “为民造福是最大政绩”",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063246.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "2a4af8e51f7cbc8424c03d73a1adfb92de3ee52e",
-      "title": "多数行业和产品生产增长，工业经济实现良好开局",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063239.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "d34cc7621ba748462773d5b66b6d1f087a33b0f0",
-      "title": "中央第一生态环境保护督察组向北京市反馈督察情况",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202603/t20260319_4561430.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "f9ebcf7a278ae148390615781be14b9d82e72c58",
-      "title": "心底无私天地宽——从“勇开河北大包干先河”看立党为公",
-      "url": "https://www.news.cn/politics/20260319/e8ccefa170cf4e9699d2768f8276b1af/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "de8025d04ab0200758a5892c6decf769549c5be5",
-      "title": "上海浦东新区原副巡视员黄建忠一审被判十三年",
-      "url": "https://www.news.cn/legal/20260318/9fa9f4be55994fa481a470075f08c9c4/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "7ff22dfabccfdb939c7ecf465f6335155a010ad4",
-      "title": "市公安局优化办事流程 压缩办理时限 “全程网办+全市通办”让群众少跑腿好办事",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260320_4562089.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "6af0daedaf2e61cc129e60105b493efa65737c3a",
-      "title": "尹力殷勇会见市长国际企业家顾问",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202603/t20260320_4562086.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "f99195929f4ef7c232ac00185012fdad45bf5b1d",
-      "title": "向县级档案馆延伸 数据定期汇聚 窗口服务联动 京津冀民生档案共享利用服务升级",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260320_4562096.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "53b9ec3f0cdc856407588463965a442a3f09d7c8",
-      "title": "各公园全域联动开展文明游园宣传活动 智能机器人上岗守护文明游园",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260320_4562092.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "eb5cf8d2f6942c935c2000bceb5494888afb08e6",
-      "title": "北京市生活垃圾管理条例执法检查启动",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260320_4562098.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "71c6edea5b66d7fc8632e67876f8f64b48781a45",
-      "title": "2026中国科幻大会月底太空启幕 主会场在首钢园 将发布《登月》等科幻新片",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260320_4562091.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "75a0f008b423e18afbb52ff21bf5201b4d3e2b97",
-      "title": "北京市领导与辽宁省沈阳市党政代表团座谈 尹力殷勇参加",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202603/t20260319_4561003.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "8daf706d5c02c52a48419b8607ccb038115f5fa9",
-      "title": "人民锐评：“路虎别停奔驰致追尾”事件，简单案件莫成维权难题",
-      "url": "https://opinion.people.com.cn/n1/2026/0320/c436867-40685387.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "4b74d88ab1b88a31dab31f56124e27a084b327c7",
-      "title": "读懂“中国好品”",
-      "url": "https://opinion.people.com.cn/n1/2026/0319/c461529-40684526.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "f2e8c4bd233f4ef60b448bf0b834befbbc875e8f",
-      "title": "特产里的发展门道（大家谈）",
-      "url": "https://opinion.people.com.cn/n1/2026/0319/c461529-40684524.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "526daa38389cf93da5a68be00b52229dbb8e2d74",
-      "title": "汩汩活水海上来（现场评论）",
-      "url": "https://opinion.people.com.cn/n1/2026/0319/c461529-40684525.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-19",
-      "fingerprint": "f1df2a40abe8a934e310e65972f21c621cf58f41",
-      "title": "微短剧靠什么赢得市场",
-      "url": "https://www.news.cn/comments/20260319/a169d699e61e4524a64a269de77c697b/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
       "report_date": "2026-03-20",
       "fingerprint": "07c73160779f54cf767a5e645a4a489df0ab7bd9",
       "title": "今明天全国大部陆续转暖 江南华南等地阴雨持续",
@@ -2037,6 +1789,86 @@
       "fingerprint": "ac1707698dcdf87160002409e3c35ab9f9073741",
       "title": "AI应用不可突破红线",
       "url": "https://www.news.cn/comments/20260401/49f16479f599409da160e1fb3da46495/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "3af0f48b220289d79758fe6624e7970fb539682c",
+      "title": "各地多措并举全力做好春灌“水文章”",
+      "url": "https://news.cctv.com/2026/04/02/ARTIiWkVulz0KbM1Ndtqc1dc260402.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "b80dca53be20877cb55b482689cdc5014ad95f49",
+      "title": "我国人均年快递使用量增长到141件",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7064556.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "88c545060b12895762bd730443392daa6e531236",
+      "title": "山水润京华 青绿添动能 生态涵养区5年增绿超10万亩",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260403_4573620.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "9ad9f7508f086a054edfb0dd3382021c4296f7c6",
+      "title": "北京开放首批50家制造业中试平台 推动创新成果从实验室快速走向生产线",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260403_4573622.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "009ca5f98995a7e534dec1c32122475569927da1",
+      "title": "便捷患者就医 集成36项功能 统一挂号平台年挂号量超两千四百万人次",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260403_4573621.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "6a2a42e5054056b8a1233b2381fe663490a8b3e3",
+      "title": "《2025年北京市生态环境状况公报》发布 超八成河流水生态状况达优良水平",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260403_4573619.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "b3fb608ffd511f4f228833501014df32990fa6a3",
+      "title": "人民锐评：新动能带动就业回暖，3月PMI释放积极信号",
+      "url": "https://opinion.people.com.cn/n1/2026/0402/c436867-40693963.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "c0844a6f52549b7010b30254b2ac67d243701e8b",
+      "title": "高速服务区何以“出圈”？",
+      "url": "https://www.news.cn/comments/20260402/f2cbee4a92594508a69c81acc2652154/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "9aacf472b267f746f9e270ac4e30471062a1adaa",
+      "title": "用好工业遗产独特价值",
+      "url": "https://www.news.cn/comments/20260402/f315ea91850d48ad80bcb73e8c57378f/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-02",
+      "fingerprint": "d4aa615fabfbaa3cfc7901debc6a8571d7045ac9",
+      "title": "新华网评：岂容“量子”沦为骗子",
+      "url": "https://www.news.cn/comments/20260402/9d864eecd52043f4b22257b427eb2c23/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
