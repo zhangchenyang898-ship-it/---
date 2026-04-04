@@ -1,254 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-20",
-      "fingerprint": "07c73160779f54cf767a5e645a4a489df0ab7bd9",
-      "title": "今明天全国大部陆续转暖 江南华南等地阴雨持续",
-      "url": "https://www.news.cn/local/20260320/435352e3a80b413899e955d73006e24b/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "d6d73b3140e3ef28c87b29259fbff8d22ba1a2bb",
-      "title": "中央财政强农惠农富农政策清单发布 这些补贴可领",
-      "url": "https://www.news.cn/fortune/20260320/fa5ee9532b0942229abd7bc7a97185c0/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "86279408badc0580f48bbb12c71285ec4e795bb0",
-      "title": "续写中国奇迹新篇章——从党的二十届四中全会到2026年全国两会",
-      "url": "https://www.news.cn/politics/20260319/7e4bbee0b973417981211272432c4189/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "8ce9029a00d44bf773e21cc61e36f87d72f27b28",
-      "title": "最高法发布典型案例，回应消费者权益保护领域热点问题",
-      "url": "https://www.news.cn/legal/20260320/3954c0ba3bc64e6995f1e47f963acee1/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "e85981eb271e743d7a926c6488da39095e2ac9b0",
-      "title": "新华解码丨聚焦二轮土地到期延包整省试点全面推开",
-      "url": "https://www.news.cn/fortune/20260320/8c6ac70dbb6e4973aa1b61bb532b2c79/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "a228a4298e6eb093eab756aee0fff20c41a6a3d8",
-      "title": "教育部启动2026届高校毕业生“春季促就业攻坚行动”",
-      "url": "https://education.news.cn/20260320/c501c681db8e45e2805eed9596c96bf0/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "c2f06a0876841eca4cc6d9cab9683aec368de4c9",
-      "title": "增值税法正式实施近3个月来——增值税抵扣链条更优化",
-      "url": "https://www.news.cn/legal/20260320/698755517bc44188adb8d6824de9865b/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "f1f2dbaddde9d6b669ed17a0fe312ea8a8021ce8",
-      "title": "维护未成年人合法权益！最高法首次发布有关审判指引",
-      "url": "https://www.news.cn/legal/20260319/a8b09a0e44ec4e2eb3dc30119c808457/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "ab087f717dca6d6d7e3c3970ed4fa7172c86fae4",
-      "title": "李强对全国春季农业生产工作作出重要批示",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063327.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "33a8c2c2e3f3fafb3d7fba49d27f9b213c9e8696",
-      "title": "郑栅洁主任主持召开民营企业座谈会 围绕贯彻全国两会精神推动服务业扩能提质 实现“十五五”良好开局听取意见建议",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260320_1404280.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "eee6ae69a4fb9d86a78110c36020d550fbf24d53",
-      "title": "解读《关于在全社会推进儿童友好建设的意见》",
-      "url": "https://www.gov.cn/zhengce/202603/content_7063041.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "0389938198f3a30f93dd8da88a6d22b441ed48c9",
-      "title": "实施更加积极有为的宏观政策，服务业实现较快增长",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063158.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "4b362fa6bfb0f903d168675a77a0301246fba51e",
-      "title": "中沙高委会共建“一带一路”、重大项目和能源分委会第五次会议成功召开",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260320_1404252.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "093143ccba8d16da427f4fb84b0fa6f3cc055425",
-      "title": "中办印发《关于加强党建带团建工作的意见》",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063296.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "cc0f9df19cc8ba0bcc37e2709439290c3dc99335",
-      "title": "七部门联合印发意见 加快推动小水电绿色转型高质量发展",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063175.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "623df67fc929627e9b5b7edb4742ceffaaee27aa",
-      "title": "国家发展改革委与德国联邦经济和能源部签署两国政府间《关于延续气候变化和绿色转型对话合作机制的联合声明》",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260320_1404254.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "1fb6237c67d4330794484a45bd08c3e6bebefe87",
-      "title": "国务院批复同意将四川眉山市列为国家历史文化名城",
-      "url": "https://www.news.cn/politics/20260319/d6408e222bcf4260bced68a30b1fa1ed/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "3c38ba9b7d918ccbefa99056f7fa2b212419f9ec",
-      "title": "浙江义乌：“情绪消费”重塑小商品经营逻辑",
-      "url": "https://www.news.cn/local/20260320/128db6b31039471ebcac5480e21bc526/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "7db17b9ecea185eced10431099927cb9e9ff5f96",
-      "title": "江苏省政协人口资源环境委员会原主任王奇接受纪律审查和监察调查",
-      "url": "https://www.news.cn/legal/20260319/9fc0753e911e4c7e9682b9489421f98c/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "8797f24a4c737a9c91804b4d6c1f9cb9db471df8",
-      "title": "北京市文物局原党组成员、副局长郝东晨接受审查调查",
-      "url": "https://www.news.cn/legal/20260319/cca7fb4dc8d0485ebbc2cc77a96e1e7b/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "7ae95063f7c3af092453125eda99aff1fbe20dea",
-      "title": "上海市人民政府关于卢山同志任职的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260320/caff575d75a843f8aab7ec2dc8a7dea5.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "e41bcbc476b0c4b7b280076da0f275e8be0bea87",
-      "title": "百余种郁金香缤纷亮相！中山公园郁金香文化节启幕",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260320_4562885.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "dba5c6f511a5a6e1812217db7f50688585d8a6d4",
-      "title": "本周末起 北京将开通10条清明扫墓专线 往返5处陵园墓地",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260320_4562858.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "2d86a03ae50e4557e6057c149f97e78828a7998c",
-      "title": "北京出台24条新政促经济稳中有进 包括融资奖励、税收优惠、高校毕业生创业补贴和支持消费品以旧换新等",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202603/t20260319_4561009.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "01d100d99fcdedd44d21f874aebcc93e0ee9df7c",
-      "title": "共同打造一场开放合作、互利共赢的全球科技交流合作盛会 2026中关村论坛年会3月25日至29日在京举办",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260319_4561005.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "3d9242e4f8a39477488a1ebe8bace9f05da1f74d",
-      "title": "保有量已突破一千二百万辆 日均出行量占比超两成 北京市2026年内将新增13万个非机动车停车位",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260319_4561010.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "66fa1dad7402b92d79adf10e346947f6df42d9da",
-      "title": "让低空经济“飞”得更稳（连线评论员）",
-      "url": "https://opinion.people.com.cn/n1/2026/0320/c461529-40685231.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "b97066fd8e3b58240eb1872b52d137cbebbdb07f",
-      "title": "观点：每年议一次，让算法成为平台和小哥的“合作公约”",
-      "url": "https://opinion.people.com.cn/n1/2026/0320/c223228-40685957.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "fe55ce0dd234c37a4b83bc0ab55e6948832a7395",
-      "title": "文艺创作如何更好实现价值引领",
-      "url": "https://www.news.cn/comments/20260320/dbf90f734dc64278a7375bbe11df42fd/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "82cae2cec7eb90c1d5561d6d8ce23e01ed03bc6c",
-      "title": "忘记年龄，事业总年轻（中国道路中国梦）",
-      "url": "https://opinion.people.com.cn/n1/2026/0320/c461529-40685228.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-20",
-      "fingerprint": "600700d4cfc2aa784f6af7d9d99c2a446fbd9f6f",
-      "title": "城市“降噪”是民心工程",
-      "url": "https://www.news.cn/comments/20260320/da0432775e864c48b2403d8602335cdb/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
       "report_date": "2026-03-21",
       "fingerprint": "1f290465825698e3828fd058d91aa62b667c0230",
       "title": "海南自贸港发布第22批7项制度集成创新案例",
@@ -1869,6 +1621,78 @@
       "fingerprint": "d4aa615fabfbaa3cfc7901debc6a8571d7045ac9",
       "title": "新华网评：岂容“量子”沦为骗子",
       "url": "https://www.news.cn/comments/20260402/9d864eecd52043f4b22257b427eb2c23/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "8b8ecaf17bbc3e0bfb754b924e55051d476860d9",
+      "title": "6分钟烧掉180平方米枯草 织密祭祀“防火网”",
+      "url": "https://news.cctv.com/2026/04/04/ARTIGCBPSm6UXa3X2lG001xX260404.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "cd516a96a89230ed53057089ad5919b71c415be7",
+      "title": "市市场监管局关于印发《上海市广告产业园区管理办法》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260403/306e59d286da436586515c9c2db3d7d8.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "dba9857cd547f8c97697dd830716e94827833659",
+      "title": "上海市人民政府办公厅印发《关于进一步强化食品安全全链条监管的若干措施》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260403/6ab1cc37bb8345d597c837027fe9e449.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "3b44d1535e72477c352af4a1ee618b057a6be67e",
+      "title": "上海市人民政府办公厅关于印发《上海市加强政策公开全面提升政务透明度工作方案》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260403/900fbfeee0ba4298ba6c193d625a77be.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "5e4cb5620ca521fd50082d287ed4527231d9485a",
+      "title": "人民锐评：清点馆藏文物最终要落在完善制度上",
+      "url": "https://opinion.people.com.cn/n1/2026/0403/c436867-40695004.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "6bb6f272ab5af7492ed69dbff25e0af8d43d3cd3",
+      "title": "深化文旅融合增强文化自信",
+      "url": "https://www.news.cn/comments/20260403/355ff8445242401792f6fab1be68c194/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "15adbf4647039e8466861b750aba3c7d865125d1",
+      "title": "新华网评：给愿意改错的人留一扇门",
+      "url": "https://www.news.cn/comments/20260403/3ce6f6c10428476f88749b727f546c48/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "457dd5e08aff3afe5a0aefe80efa1f9004cd34e9",
+      "title": "新华网评：三问优思益“翻车”事件",
+      "url": "https://www.news.cn/comments/20260403/8f6f62d90dbe49c2abab24724fa0e83a/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-03",
+      "fingerprint": "2d9264e1573290bcf7d7202828e4e41d816c094a",
+      "title": "农技推广要讲究性价比",
+      "url": "https://www.news.cn/comments/20260403/5254bb2eebd84dec94da30f203351deb/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
