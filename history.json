@@ -1,230 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-21",
-      "fingerprint": "1f290465825698e3828fd058d91aa62b667c0230",
-      "title": "海南自贸港发布第22批7项制度集成创新案例",
-      "url": "https://www.news.cn/politics/20260319/3c3f955dcfd044c6893b68a1a0cc791f/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "2587631210a05148d9cfd9973bfa4aa4276adb82",
-      "title": "树立和践行正确政绩观｜深化理论武装 坚持学用结合——中管高校扎实开展树立和践行正确政绩观学习教育",
-      "url": "https://www.news.cn/politics/20260319/7e84742cb079494fb20d1e2dfe27cbe9/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "2b901e7af7bea711f07bef7c571c6d6383d4a9c5",
-      "title": "国家发展改革委规划司负责人解读国家发展规划法",
-      "url": "https://www.news.cn/legal/20260319/23697e8e7b064de490463af3e40b166a/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "25fbab2b32553723e324634d92a71cf51cf8827a",
-      "title": "再越六盘山——“三本账”看西海固之变",
-      "url": "https://www.news.cn/local/20260319/b47235b377dd4bff99555809df737a9b/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "6fcc5ca5b300d5f41c3f172c4aa9fcda13e6280d",
-      "title": "中国化工装备有限公司原副总经理李东平接受纪律审查和监察调查",
-      "url": "https://www.news.cn/legal/20260319/0d7650ccb2d1497299885dccdbf9155a/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "79fcfdd758418ceafb88950dc1a5cb1ed927fe7d",
-      "title": "“千年秀林”守望者刘世光：每棵树都是我的孩子",
-      "url": "https://www.news.cn/photo/20260319/b696707669c44c6ebaa7ec9082422955/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "27f9a06b58b9431a8f7cb190e25f617e20ade33e",
-      "title": "两部门出台新规 企业跨境放款更便利 专家解读→",
-      "url": "https://news.cctv.com/2026/03/22/ARTIcCwIATFkXIRm7HGvzjKJ260322.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "7713ea46d540eeb813a7feea9ac82083c7c1bd97",
-      "title": "16条政策举措全力促进高校毕业生等青年就业",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063300.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "83230fba6ee7b7359a488fde37a96fe91defb9a5",
-      "title": "抢抓农时 各地春耕春管有序开展",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063238.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "8961f4147152a091f1473a204b864030977f5dda",
-      "title": "我国电动汽车充电基础设施超2100万个",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063409.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "bded98e4059643921fcffe4b44c0967d5139e1a3",
-      "title": "国家发展改革委推出新一批标志性重大外资项目",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063092.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "aa612ede3590618ae3956cc711eb961bc7771702",
-      "title": "前两个月全社会用电量同比增长6.1%",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063078.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "f129d7cf8cf56c793713df3629de9d7990306a31",
-      "title": "何立峰会见跨国公司负责人",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063390.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "b4bc308ca9f70c10d2e601867af17fd8d9b13b45",
-      "title": "九部门发文促进旅行服务出口 扩大入境消费",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063348.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "7ef771f5071148bae5d16cab191cc861fe9771fb",
-      "title": "丁薛祥：促进高校毕业生高质量充分就业",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063145.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "7fd11e6aeb035f4a4dcda5cb60bf8ada7da58fea",
-      "title": "第十七届北京市市长国际企业家顾问会议举行 殷勇出席",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202603/t20260321_4563126.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "7dd9de139e0282fb7c92cdb8d99363ed539aec70",
-      "title": "汇聚全球之智 助力北京高质量发展",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260321_4563130.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "5ab2b5f18eab19a4467493791f967f0ddc181836",
-      "title": "围绕全球科技治理、基础研究与科技前沿、创新生态等热点议题 中关村论坛将举办六十场平行论坛",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260321_4563129.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "d452aa12f29e7fedd993fe9204d47db444909287",
-      "title": "十三届市委第七轮巡视完成反馈",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260321_4563134.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "2c130c08bb05ad02bd13314db47d553f5ffdc86b",
-      "title": "北京市形成全方位立体化国际友城交往格局",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260321_4563135.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "938c2915b1c56551649d35ce18817a69d3d90b8b",
-      "title": "80条顾问建议精准落地北京城市治理",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260321_4563132.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "8dd8ced5d41cda63342b475843bc980217c5bfd9",
-      "title": "以“北京服务”为企业发展赋能 市领导开展一季度大调研",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260319_4561004.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "08a6b527688d8c493168db8c6aa2c9bedb284e6a",
-      "title": "66项重点任务定调全年发展目标 北京市四个综保区要提质跨越",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260319_4561006.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "1c5d1b490a51d4fca6aea692c0a70b86c1f1b220",
-      "title": "这个窗口名字有点“土”，但办事靠谱",
-      "url": "https://www.news.cn/comments/20260321/0eca9d496c844ac4845a499eeda7cf7c/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "b2aec521924566930d119bf85a4b95a85b2f219b",
-      "title": "环球时报社评：高市早苗访美，一场代价高昂的“政治秀”",
-      "url": "https://opinion.people.com.cn/n1/2026/0321/c1003-40686153.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "fe520e22404fc77fd9937e0271d5832362f8d5f6",
-      "title": "人民锐评：这条“AI过”的回复被识别后，为何依然获赞",
-      "url": "https://opinion.people.com.cn/n1/2026/0321/c436867-40686176.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "1d03b8f95f72d724cfa2bb77ed317a4219fbd78a",
-      "title": "人民锐评：网友抵制AI演员，给所有企业带来什么启示",
-      "url": "https://opinion.people.com.cn/n1/2026/0321/c436867-40686168.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-21",
-      "fingerprint": "f5372f65079fcccb49ac976f79d7934175ee965f",
-      "title": "人民锐评：“梅姨”归案，“拐途”末路",
-      "url": "https://opinion.people.com.cn/n1/2026/0321/c436867-40686209.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-03-22",
       "fingerprint": "6add8b05a8cf22b77f451907e5f79f0897f18c13",
       "title": "一艘邮轮，如何带来消费新体验",
@@ -1695,6 +1471,54 @@
       "url": "https://www.news.cn/comments/20260403/5254bb2eebd84dec94da30f203351deb/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "9aa327dcffe035115debc2f76dfe49058190802e",
+      "title": "国内航线燃油附加费今起调整",
+      "url": "https://news.cctv.com/2026/04/05/ARTIWOsMmFpeuBLiFYoNBY1J260405.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "04d92058b239cc970cecf1f3667bb825502fc654",
+      "title": "2026年一季度消费品以旧换新销售额超4300亿元",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7064687.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "7ba42c4167c3f1496e860019bb891e75dc03a66b",
+      "title": "市国动办全国首创人防工程“依规划”审批改革 助力优化营商环境“该建的一个不少 不该建的一个不建”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574778.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "0f382384cce259577e5da7541275597df1448c60",
+      "title": "趣味游园 非遗体验 科普研学 追思怀远 市属公园踏青赏花正当时",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260404_4574782.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "96e350f5387cc3f302d76f04bfb990dd065e6546",
+      "title": "企业出题 高校答题 市场阅卷 促进高校创新成果从“书架”走向“货架”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574775.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-04",
+      "fingerprint": "4545cba82a00c2a18a3a042400255c1c67224cff",
+      "title": "今年前两个月新入驻企业达100家 同比增长28% 首都机场临空区招商跑出“加速度”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574777.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
