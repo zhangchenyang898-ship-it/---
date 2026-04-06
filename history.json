@@ -1,198 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-22",
-      "fingerprint": "6add8b05a8cf22b77f451907e5f79f0897f18c13",
-      "title": "一艘邮轮，如何带来消费新体验",
-      "url": "https://news.cctv.com/2026/03/22/ARTI8wOhinExcvwvWz3l6Ii3260322.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "73e41256e5761a1de772aa648e0a1f82c2bb095a",
-      "title": "中共中央办公厅 国务院办公厅印发《国有企业领导人员廉洁从业规定》",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063467.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "f6c624aa6478720cfe763b25a87bcbc3c45ab2a5",
-      "title": "《关于促进旅行服务出口 扩大入境消费的政策措施》解读",
-      "url": "https://www.gov.cn/zhengce/202603/content_7063386.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "e59fa6d5042bcc83da00747b0d0f054bfcfaef70",
-      "title": "李强出席中国发展高层论坛2026年年会开幕式并发表主旨演讲",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063435.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "e1c102b79d815312699a6c2fe27ef6d3eb289ef6",
-      "title": "何立峰会见美中贸易全国委员会代表团",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063481.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "cd11d576139748d3e4bd3b5c87eece93eba43df2",
-      "title": "习近平向拉美和加勒比国家共同体第十届峰会致贺电",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063423.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "d62afa8011d280bd5c51dd342e87fdf84ca3c8a0",
-      "title": "16条政策举措推出，全力促进高校毕业生等青年就业",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063300.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "b93ba58f5ad949a80e660ad743ba78a6d065f2ec",
-      "title": "我国工业经济实现良好开局",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063239.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "c1c158c49e0b8d06e40bad093c7258821edb181e",
-      "title": "图表：我国森林面积和森林蓄积连续40年双增长",
-      "url": "https://www.gov.cn/zhengce/202603/content_7063443.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "5184d5ef3d34e8f20aec57274e97aa8b539e9c46",
-      "title": "锚定六大领域实施122项细分任务 北京加速培育未来产业",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260323_4563245.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "425eb00676dd77900a9d850e0e63229c2de5c7c0",
-      "title": "规划为笔 匠心描摹“千年之城”新模样",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260323_4563251.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "5f790059dffa056e02de79c20b2ca91fd87a6f54",
-      "title": "百万人次游客市属公园周末赏花",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563247.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "f6f8b26ee3afe54aece4717a8c36e320f38e582b",
-      "title": "多家老品牌带着老味道回到隆福寺",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563248.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "19557b5b4d4e19f919bf252377d8f827b4f0f2ca",
-      "title": "二〇二六年人民建议征集参考议题公布",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563246.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "c3c46d452aae32e417fee9161d540e52c1b76a0f",
-      "title": "2026年报国寺古旧书市焕新开市 古刹书香浓 春读正当时",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563249.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "a2ed5a26c7b1807dcf412cfed1d2430a25b818c7",
-      "title": "首个国家标准创制与产业需求精准对接平台激发标准制修订需求超400项 “北京经验”转化国家标准有了对接平台",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260322_4563192.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "854965a0dca84ad4bd283f056ab93568be333a48",
-      "title": "水岸共治 以河道复兴带动城市更新 北小河4.2公里滨水空间亮相",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260322_4563190.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "6c8a2bf26e280601add26e4f4e4da08026840d80",
-      "title": "气温波动中上行 北京下周暖意渐浓",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260322_4563200.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "90da224da6b15f7d5c17e9e11d89881898a4c948",
-      "title": "年底全市规模以上制造业企业数字化转型要全面达标 北京“真金白银”力促制造业数字化转型",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260322_4563193.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "b7ed74134cc60c8d2bea3607f8ca309325ed360a",
-      "title": "调研越是走深，政绩越会向实",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c461529-40686527.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "7e1bec540fa655d314bbbd7a73f3c9c8f8a4ab73",
-      "title": "荧荧赤子心，照得万里明",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c461529-40686531.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "972aff71041ecb4bceb1a53c273d08fce872e1df",
-      "title": "建设文化强国要坚持“目中有人”",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c461529-40686528.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "4d2fc406d7e055617bcf152d2f57ef0b074de577",
-      "title": "人类命运共同体的灯塔照亮人类前行之路（和音）",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c461529-40686519.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-22",
-      "fingerprint": "88c7fd022881986b95f02e0c74f38b43d459ae34",
-      "title": "人民日报人民时评： 以“共赢思维”服务好新就业群体",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c461529-40686530.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-03-23",
       "fingerprint": "02fb4e476ff8070ff8650ed6b5cd97e3ed7e5269",
       "title": "进一步提升基本公共服务和社会保障水平——学习贯彻习近平总书记全国两会期间关于推进全体人民共同富裕重要讲话系列述评之三",
@@ -1517,6 +1325,46 @@
       "fingerprint": "4545cba82a00c2a18a3a042400255c1c67224cff",
       "title": "今年前两个月新入驻企业达100家 同比增长28% 首都机场临空区招商跑出“加速度”",
       "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574777.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-05",
+      "fingerprint": "4f2c254a6026e218adbad3e1b147987ee980053f",
+      "title": "内蒙古呼伦贝尔近亿亩草原进入休牧期",
+      "url": "https://news.cctv.com/2026/04/06/ARTIii0gdbJocTlTQMXy9dqC260406.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-05",
+      "fingerprint": "fe938eea2c90d2c1535339da621cf589e72acdac",
+      "title": "警方定点值守、动态巡逻、及时疏导 “一园一策”守护踏青赏花安全",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260405_4574826.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-05",
+      "fingerprint": "9ee8a24245f3a31bae5493979a530bb462cbf93c",
+      "title": "带着晨露的果蔬直达餐桌 京郊土特产有了新销路 从田间到公园 “新鲜”市集连城乡",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574825.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-05",
+      "fingerprint": "b3158edeae6100b4ee8986714d152cc490dd6408",
+      "title": "假期首日市属公园迎客58.57万人次 天坛公园、颐和园、玉渊潭公园位列前三",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574824.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-05",
+      "fingerprint": "c28483428bf44c8d07a82b9d7c9a64175c3fd014",
+      "title": "交警启动高等级上勤 增设千余疏导岗 市民顺利祭扫舒心出游",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574831.html",
       "category": "regional",
       "source": "首都之窗"
     }
