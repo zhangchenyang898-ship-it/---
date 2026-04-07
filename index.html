@@ -7,14 +7,15 @@
   <style>
     :root {
       --bg: #efe7da;
-      --paper: rgba(255, 253, 249, 0.9);
+      --paper: rgba(255, 253, 249, 0.92);
       --paper-strong: #fffdf9;
       --ink: #201a17;
       --muted: #6f6359;
       --accent: #9f1d2c;
-      --accent-soft: #efe2cf;
-      --border: #dbcfc0;
+      --accent-soft: #f1e4d2;
+      --line: #dbcfc0;
       --shadow: 0 20px 60px rgba(89, 60, 38, 0.08);
+      --navy: #1f2b7b;
     }
     html {
       scroll-behavior: smooth;
@@ -22,49 +23,56 @@
     body {
       margin: 0;
       color: var(--ink);
-      font-family: "Noto Serif SC", "Songti SC", serif;
+      font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
       background:
         radial-gradient(circle at top left, rgba(159, 29, 44, 0.1), transparent 24%),
         radial-gradient(circle at bottom right, rgba(205, 165, 102, 0.16), transparent 24%),
-        linear-gradient(180deg, #f8f1e7, #efe3d1);
+        linear-gradient(180deg, #fbf4ea, #efe3d1);
     }
     main {
-      max-width: 1100px;
+      max-width: 1140px;
       margin: 0 auto;
-      padding: 40px 20px 56px;
+      padding: 38px 18px 56px;
     }
-    header {
-      margin-bottom: 24px;
+    .masthead {
+      margin-bottom: 20px;
     }
     h1 {
-      margin: 0 0 10px;
-      font-size: clamp(34px, 5vw, 54px);
+      margin: 0 0 8px;
+      font-size: clamp(36px, 5vw, 58px);
       letter-spacing: 0.03em;
       color: var(--accent);
     }
     .subtitle {
       color: var(--muted);
-      font-size: 17px;
+      font-size: 16px;
+      line-height: 1.7;
     }
     .hero {
       background: var(--paper);
-      border: 1px solid var(--border);
+      border: 1px solid var(--line);
       border-radius: 28px;
-      padding: 28px;
+      padding: 26px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
+      margin-bottom: 20px;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.5fr) minmax(320px, 1fr);
+      gap: 18px;
     }
     .stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
       gap: 14px;
-      margin: 18px 0 22px;
+      margin: 18px 0 20px;
     }
     .stat-card {
       text-decoration: none;
       color: inherit;
-      background: linear-gradient(180deg, #f5ecdf, #f1e6d7);
-      border: 1px solid var(--border);
+      background: linear-gradient(180deg, #f7eee1, #f0e5d6);
+      border: 1px solid var(--line);
       border-radius: 20px;
       padding: 18px 18px 16px;
       display: grid;
@@ -76,13 +84,14 @@
       box-shadow: 0 12px 26px rgba(89, 60, 38, 0.08);
       border-color: #cfae80;
     }
-    .stat-card strong {
-      font-size: 28px;
-      color: #2b221d;
+    .stat-label {
+      font-size: 18px;
+      font-weight: 700;
     }
-    .stat-card span {
-      font-size: 26px;
+    .stat-card strong {
+      font-size: 36px;
       color: var(--accent);
+      line-height: 1;
     }
     .stat-card small {
       color: var(--muted);
@@ -92,249 +101,293 @@
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
+      margin-bottom: 14px;
     }
     .button {
       text-decoration: none;
       padding: 11px 18px;
       border-radius: 999px;
       border: 1px solid var(--accent);
-      color: white;
+      color: #fff;
       background: var(--accent);
     }
     .button.secondary {
       background: transparent;
       color: var(--accent);
     }
-    .overview {
-      margin-top: 26px;
+    .quick-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .nav-chip {
+      text-decoration: none;
+      color: #5c3429;
+      border: 1px solid #d8c1a8;
+      background: #f8efe4;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 14px;
+    }
+    .rule-panel, .section-panel, .study-panel {
+      background: var(--paper-strong);
+      border: 1px solid var(--line);
+      border-radius: 26px;
+      padding: 24px;
+      box-shadow: var(--shadow);
+    }
+    .rule-panel h2, .section-head h2, .study-panel h2 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      color: #241d18;
+    }
+    .rule-panel p, .section-head p, .study-panel p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.75;
+    }
+    .rule-panel ol {
+      margin: 16px 0 0 20px;
+      padding: 0;
+      line-height: 1.9;
+    }
+    .layout {
       display: grid;
       gap: 18px;
     }
     .section-panel {
-      background: var(--paper-strong);
-      border: 1px solid var(--border);
-      border-radius: 28px;
-      padding: 24px;
-      box-shadow: var(--shadow);
       scroll-margin-top: 24px;
     }
     .section-head {
       display: flex;
       justify-content: space-between;
-      gap: 20px;
       align-items: flex-start;
+      gap: 18px;
       margin-bottom: 18px;
-    }
-    .section-head h2 {
-      margin: 0 0 6px;
-      font-size: 34px;
-      color: #241d18;
-    }
-    .section-head p {
-      margin: 0;
-      color: var(--muted);
-      max-width: 760px;
-      line-height: 1.7;
     }
     .section-count {
       flex: none;
-      font-size: 14px;
       color: var(--accent);
       background: var(--accent-soft);
       border-radius: 999px;
       padding: 8px 12px;
+      font-size: 14px;
     }
     .news-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
       gap: 16px;
     }
-    .news-card {
+    .news-card, .study-mini-card {
       background: #fbf6ee;
       border: 1px solid #e4d7c8;
       border-radius: 20px;
       padding: 18px;
-      display: grid;
-      gap: 10px;
     }
     .news-meta {
       color: var(--muted);
       font-size: 13px;
-      letter-spacing: 0.02em;
+      margin-bottom: 10px;
     }
-    .news-card h3 {
-      margin: 0;
+    .news-card h3, .study-mini-card h3 {
+      margin: 0 0 10px;
       font-size: 22px;
       line-height: 1.45;
     }
     .news-card a {
-      color: #1f2b7b;
+      color: var(--navy);
       text-decoration: none;
     }
     .news-card a:hover {
       text-decoration: underline;
     }
-    .news-card p {
+    .news-card p, .study-mini-card p {
       margin: 0;
       color: #3f352e;
-      line-height: 1.8;
+      line-height: 1.85;
       font-size: 15px;
+    }
+    .more-panel {
+      margin-top: 14px;
+      background: #f9f1e6;
+      border: 1px dashed #d7c0a5;
+      border-radius: 18px;
+      padding: 14px;
+    }
+    .more-panel summary {
+      cursor: pointer;
+      color: var(--accent);
+      font-weight: 700;
+    }
+    .more-grid {
+      margin-top: 14px;
+    }
+    .study-panel {
+      display: grid;
+      gap: 14px;
+    }
+    .study-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+    .study-mini-card {
+      display: grid;
+      grid-template-columns: 44px 1fr;
+      gap: 14px;
+      align-items: start;
+    }
+    .study-index {
+      width: 44px;
+      height: 44px;
+      border-radius: 14px;
+      display: grid;
+      place-items: center;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 700;
     }
     .empty {
       color: var(--muted);
       margin: 0;
-      font-size: 15px;
+    }
+    @media (max-width: 860px) {
+      .hero-grid {
+        grid-template-columns: 1fr;
+      }
     }
     @media (max-width: 720px) {
       main {
-        padding: 28px 14px 40px;
+        padding: 24px 12px 40px;
       }
-      .hero, .section-panel {
+      .hero, .rule-panel, .section-panel, .study-panel {
         padding: 18px;
         border-radius: 22px;
       }
       .section-head {
         flex-direction: column;
       }
-      .section-head h2 {
-        font-size: 28px;
+      .rule-panel h2, .section-head h2, .study-panel h2 {
+        font-size: 26px;
       }
       .stat-card strong {
-        font-size: 24px;
-      }
-      .stat-card span {
-        font-size: 22px;
+        font-size: 28px;
       }
     }
   </style>
 </head>
 <body>
   <main>
-    <header>
+    <header class="masthead">
       <h1>前一天国内新闻日报</h1>
-      <div class="subtitle">最新一期日期：2026-04-06 | 生成时间：2026-04-07T15:55:59.582056+08:00</div>
+      <div class="subtitle">最新一期日期：2026-04-06 | 生成时间：2026-04-07T16:05:26.275528+08:00</div>
     </header>
+
     <section class="hero">
-      <div class="stats">
+      <div class="hero-grid">
+        <div>
+          <div class="subtitle">每天只保留更权威、更有信息量、且未在近几天重复推送的内容。上面的四个板块可以直接点开，下方总览支持继续展开。</div>
+          <div class="stats">
         <a class="stat-card" href="#top-politics">
-          <strong>重要时政</strong>
-          <span>1 条</span>
-          <small>点击查看板块内容</small>
+          <span class="stat-label">重要时政</span>
+          <strong>0</strong>
+          <small>点击查看本板块</small>
         </a>
         
         <a class="stat-card" href="#policy">
-          <strong>政策发布</strong>
-          <span>1 条</span>
-          <small>点击查看板块内容</small>
+          <span class="stat-label">政策发布</span>
+          <strong>0</strong>
+          <small>点击查看本板块</small>
         </a>
         
         <a class="stat-card" href="#regional">
-          <strong>地方热点</strong>
-          <span>0 条</span>
-          <small>点击查看板块内容</small>
+          <span class="stat-label">地方热点</span>
+          <strong>0</strong>
+          <small>点击查看本板块</small>
         </a>
         
         <a class="stat-card" href="#comments">
-          <strong>评论文章</strong>
-          <span>4 条</span>
-          <small>点击查看板块内容</small>
+          <span class="stat-label">评论文章</span>
+          <strong>0</strong>
+          <small>点击查看本板块</small>
         </a>
         </div>
-      <div class="actions">
-        <a class="button" href="daily-news-digest-2026-04-06.html">打开完整日报</a>
-        <a class="button secondary" href="latest.json">查看 JSON</a>
+          <div class="actions">
+            <a class="button" href="daily-news-digest-2026-04-06.html">打开完整日报</a>
+            <a class="button secondary" href="latest.json">查看 JSON</a>
+          </div>
+          <div class="quick-nav"><a class="nav-chip" href="#top-politics">重要时政</a><a class="nav-chip" href="#policy">政策发布</a><a class="nav-chip" href="#regional">地方热点</a><a class="nav-chip" href="#comments">评论文章</a></div>
+        </div>
+        <aside class="study-panel">
+          <h2>今日阅读提示</h2>
+          <p>评论与申论学习材料单独放在右侧摘要里，避免和普通新闻混在一起。网页首页适合扫读，完整日报适合精读和留档。</p>
+          <div class="study-grid">
+            
+      <article class="study-mini-card">
+        <div class="study-index">01</div>
+        <div>
+          <h3>申论学习提炼</h3>
+          <p>当天没有新的评论样本，因此这一栏留空。</p>
+        </div>
+      </article>
+    
+          </div>
+        </aside>
       </div>
     </section>
-    <div class="overview">
+
+    <section class="rule-panel">
+      <h2>筛选规则</h2>
+      <p>这不是全网热搜汇总，而是一份偏权威、偏政策、偏申论学习用途的精选日报。</p>
+      <ol><li>只抓取白名单内的官方或权威来源。</li><li>默认抓取前一天内容，不追今天的实时流量新闻。</li><li>同标题内容去重，近 14 天推送过的新闻自动跳过。</li><li>优先保留信息量高、发布时间明确、来源更权威的条目。</li><li>地方热点优先保证地区分散，不够好就宁缺毋滥。</li><li>评论文章单独筛选，用于申论学习，不和普通新闻混在一起。</li></ol>
+    </section>
+
+    <div class="layout">
       
-      <section class="section-panel" id="top-politics">
-        <div class="section-head">
-          <div>
-            <h2>重要时政</h2>
-            <p>优先展示全国层面的重要动态和代表性事件</p>
+        <section class="section-panel" id="top-politics">
+          <div class="section-head">
+            <div>
+              <h2>重要时政</h2>
+              <p>优先保留全国层面的核心动态和权威报道。</p>
+            </div>
+            <span class="section-count">0 条</span>
           </div>
-          <span class="section-count">1 条</span>
-        </div>
-        <div class="news-grid">
-          
-      <article class="news-card">
-        <div class="news-meta">央视网 | 2026-04-07</div>
-        <h3><a href="https://news.cctv.com/2026/04/07/ARTI6dWjCU5yI60DmtsqomGm260407.shtml" target="_blank" rel="noreferrer">“硬核”数据绘就清明假期文旅消费“热力图”</a></h3>
-        <p>“硬核”数据绘就清明假期文旅消费“热力图”</p>
-      </article>
-    
-        </div>
-      </section>
-    
-      <section class="section-panel" id="policy">
-        <div class="section-head">
-          <div>
-            <h2>政策发布</h2>
-            <p>聚焦政策、方案、办法、意见和权威解读</p>
+          <p class="empty">当天没有达到筛选标准的内容，因此不强行凑数。</p>
+        </section>
+        
+        <section class="section-panel" id="policy">
+          <div class="section-head">
+            <div>
+              <h2>政策发布</h2>
+              <p>优先保留政策、办法、意见、通知和权威解读。</p>
+            </div>
+            <span class="section-count">0 条</span>
           </div>
-          <span class="section-count">1 条</span>
-        </div>
-        <div class="news-grid">
-          
-      <article class="news-card">
-        <div class="news-meta">国家发展改革委 | 2026-04-07</div>
-        <h3><a href="https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260407_1404528.html" target="_blank" rel="noreferrer">2026年4月7日国家继续实施调控，成品油价格适当调整</a></h3>
-        <p>2026年4月7日国家继续实施调控，成品油价格适当调整</p>
-      </article>
-    
-        </div>
-      </section>
-    
-      <section class="section-panel" id="regional">
-        <div class="section-head">
-          <div>
-            <h2>地方热点</h2>
-            <p>只保留当天有代表性的地区样本，宁缺毋滥</p>
+          <p class="empty">当天没有达到筛选标准的内容，因此不强行凑数。</p>
+        </section>
+        
+        <section class="section-panel" id="regional">
+          <div class="section-head">
+            <div>
+              <h2>地方热点</h2>
+              <p>强调代表性和地域分散度，没有合格内容就少放。</p>
+            </div>
+            <span class="section-count">0 条</span>
           </div>
-          <span class="section-count">0 条</span>
-        </div>
-        <div class="news-grid">
-          <p class='empty'>暂无内容</p>
-        </div>
-      </section>
-    
-      <section class="section-panel" id="comments">
-        <div class="section-head">
-          <div>
-            <h2>评论文章</h2>
-            <p>用于申论学习的评论、时评和政策解读文章</p>
+          <p class="empty">当天没有达到筛选标准的内容，因此不强行凑数。</p>
+        </section>
+        
+        <section class="section-panel" id="comments">
+          <div class="section-head">
+            <div>
+              <h2>评论文章</h2>
+              <p>面向申论学习，优先保留观点明确、论证完整的评论与解读。</p>
+            </div>
+            <span class="section-count">0 条</span>
           </div>
-          <span class="section-count">4 条</span>
-        </div>
-        <div class="news-grid">
-          
-      <article class="news-card">
-        <div class="news-meta">人民网评论 | 2026-04-07</div>
-        <h3><a href="https://opinion.people.com.cn/n1/2026/0407/c461529-40695875.html" target="_blank" rel="noreferrer">任何染指台湾的挑衅行径都必将付出代价</a></h3>
-        <p>日本右翼势力公然与“台独”分裂势力勾连，既是根深蒂固的殖民情结的外化，也是企图以台湾问题为借口，进一步渲染周边紧张态势，进而推进“再军事化” 近日，中方依据《中华人民共和国反外国制裁法》，对日本国会众议员古屋圭司采取反制措施；这是维护国家主权、捍卫国际法的正义之举，是对日本右翼势力与“台独”分裂势力加紧勾连、挑衅滋事的严正警告</p>
-      </article>
-    
-      <article class="news-card">
-        <div class="news-meta">新华网评论 | 2026-04-07</div>
-        <h3><a href="https://www.news.cn/comments/20260407/da54de479bf64a7c8cc705193a975e3f/c.html" target="_blank" rel="noreferrer">以花之名表达致敬与感动</a></h3>
-        <p>近日，云南省农科院将编号3385-17的月季新品种定名为“赞英”；她是中国科学院昆明植物研究所退休职工、助理研究员张赞英</p>
-      </article>
-    
-      <article class="news-card">
-        <div class="news-meta">新华网评论 | 2026-04-07</div>
-        <h3><a href="https://www.news.cn/comments/20260407/c9c02218a517470e89b30a324271bc24/c.html" target="_blank" rel="noreferrer">以系统思维解好“多元方程”</a></h3>
-        <p>草长莺飞，春光明媚，正是踏青好时节；近段时间，浙江、四川等10余个省份出台了春假方案，且大多和清明、“五一”等假期相连，能形成连贯假期</p>
-      </article>
-    
-      <article class="news-card">
-        <div class="news-meta">新华网评论 | 2026-04-07</div>
-        <h3><a href="https://www.news.cn/comments/20260407/1d20a5b30d2e406dadec7c58fe84df03/c.html" target="_blank" rel="noreferrer">“东北超”里的振兴密码</a></h3>
-        <p>下个月，东北地区城市足球联赛（“东北超”）就要开踢了；球迷专列、美食体验等各种预热未赛先火，以足球赛事为媒提振精气神，“东北超”正在燃动黑土地</p>
-      </article>
-    
-        </div>
-      </section>
-    
+          <p class="empty">当天没有达到筛选标准的内容，因此不强行凑数。</p>
+        </section>
+        
     </div>
   </main>
 </body>
