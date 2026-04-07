@@ -1,254 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-23",
-      "fingerprint": "02fb4e476ff8070ff8650ed6b5cd97e3ed7e5269",
-      "title": "进一步提升基本公共服务和社会保障水平——学习贯彻习近平总书记全国两会期间关于推进全体人民共同富裕重要讲话系列述评之三",
-      "url": "https://www.news.cn/politics/20260322/eb4375b114444ddfbae64c838bf1a2d7/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "4c23b2cce099f8515a4f28ba6fee75ad5d5256ad",
-      "title": "受权发布丨中共中央办公厅 国务院办公厅印发《国有企业领导人员廉洁从业规定》",
-      "url": "https://www.news.cn/politics/20260322/47f362f74c8c40d6ac415b6b32d6361f/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "91ec59c77b8e654dd69eda913e09fe955b138299",
-      "title": "用上380多米长的指针式喷灌机——沙漠边也能种小麦",
-      "url": "https://www.news.cn/politics/20260323/64a74b7a4e9f47b49fb64a82bf71b3bb/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "d99c9966dd0399738f4e03dfa22afb15477bd421",
-      "title": "检察机关依法对金湘军涉嫌受贿案提起公诉",
-      "url": "https://www.news.cn/legal/20260323/e6e93df58e084ac4afcfc431a4251848/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "05f42933b9a8307eabacf099d7dd7111850ba137",
-      "title": "新华深读丨这109项重大工程项目，藏着未来5年的“好饭碗”",
-      "url": "https://www.news.cn/tech/20260323/b4adbbbfe88442e2b408cea0dba92f56/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "017b83d69cc634ad60c04a6e44aab99db4b7b0d9",
-      "title": "政绩观问题是一个根本性问题",
-      "url": "https://www.news.cn/politics/20260323/e60bc624b19449baa47151bdb9993585/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "7875a75b744e1fa3bb0aeca1866cdfb6870018f1",
-      "title": "我国成功发射微厘空间02组卫星",
-      "url": "https://www.news.cn/tech/20260323/1c2b6cb4456c4cf2a26dba89079f9106/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "6631fe13a160fb3df8ef42ee63d87f0a2a279e8c",
-      "title": "女国医大师的“三自”生活——活出健康自在的生命状态",
-      "url": "https://www.news.cn/politics/20260323/a5e49a33428c404bbb6714b7ec9228d5/c.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "74d7f842b965aba9a272f52e002ea650222aaf4b",
-      "title": "李强出席中国发展高层论坛2026年年会开幕式",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063435.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "181e32156d1dc9347aa046035003f691f2e8986e",
-      "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063552.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "d180124dea2514d41e0eaa41b02bec2b389447b6",
-      "title": "习近平致电祝贺通伦当选连任老挝国家主席",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063541.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "7f29ac29c29d1b36ac26496108a27510df0666a3",
-      "title": "郑栅洁主任会见大众汽车集团管理董事会主席奥博穆",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260323_1404297.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "331eedbe0c9cd4ce684c1fbfefcc370db159a2e5",
-      "title": "国家对成品油价格采取临时调控措施",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260323_1404296.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "ebc71f3174315316f22146f19be7856126a6db8e",
-      "title": "2026年3月23日国内成品油价格调整",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202603/t20260323_1404295.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "af95996914afcb0cb7567d54d8d5b016f384b9dd",
-      "title": "国家能源局：我国电动汽车充电基础设施超2100万个",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063409.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "83401f5711eb74696ec6a683ae65d548da4f8474",
-      "title": "国家发展改革委对国内成品油价格采取临时调控措施",
-      "url": "https://www.gov.cn/lianbo/202603/content_7063549.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "322108e5f87bb1ee599a8c5deed6c800d2062539",
-      "title": "市政府新闻发布会介绍虹桥国际开放枢纽启动建设五周年虹桥国际中央商务区建设成果",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260323/6740fdae578b405fa8f67a3e325137dc.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "7f05ada94455c9894fbd3c668b05d3c49081998e",
-      "title": "北京警方打掉多个租房“黑中介”犯罪团伙",
-      "url": "https://www.news.cn/legal/20260323/9068db6c52c3487d9297faf6016dca65/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "993b994d4f0a3522628e1cef8d915239998a6013",
-      "title": "湖北屈家岭：“一朵桃花”成为激活乡村振兴“金钥匙”",
-      "url": "https://www.news.cn/local/20260322/3a0cdd2735b0499098353da34c836239/c.html",
-      "category": "regional",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "2785ab934a8424edb32df53e2f3ec45aa34d6bfa",
-      "title": "“十五五”开局北京外贸迎来“开门红” 前2个月进出口同比增长7.6%",
-      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202603/t20260324_4564288.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "d59f98e6e42c862bb88b86a8f97bf89cbae70261",
-      "title": "踏青赏花的人潮正盛 百万人次游客市属公园周末赏花",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563247.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "df59d6ff216d879721d707ed195ffa4882ae6730",
-      "title": "多家老品牌带着老味道回到隆福寺 为街区增添活力",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563248.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "d12ea4ed166b1bab4eab9a57b250f2caa59f64aa",
-      "title": "围绕今年本市重点工作任务 二〇二六年人民建议征集参考议题公布",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202603/t20260323_4563246.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "8c24dafc4a93a72cf7b51b5c33ab91e086191636",
-      "title": "北京城市副中心生机勃发——规划为笔 匠心描摹“千年之城”新模样",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260323_4563251.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "c5e16a4040f440b146206f9182f7da6d5b68ab2f",
-      "title": "上海市发展和改革委员会关于车用汽、柴油价格的通知（2026年3月23日）",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260323/b0d82592eab74957b0ccc47354728f87.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "f7f21fda164cc6921838332db2561c04ba904903",
-      "title": "以精准服务助力企业高质量发展 游钧调研一季度“开门红”情况",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260322_4563199.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "a2b34eec4be867a177f588896c3c4400a00c2ba6",
-      "title": "别让“数据焦虑”侵蚀健康",
-      "url": "https://www.news.cn/comments/20260323/92e142e33b9d449ba0f3b5c139ec6482/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "2cf44ebe7b5aa8a6dfa8b964c77c4a38dd98cd09",
-      "title": "使用大模型要有批判性思维",
-      "url": "https://www.news.cn/comments/20260323/9c57d1ebb6734ca391aac5fe07e86351/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "60af23ac55220a3dca13e3b9b3fc67c3b88dd2a9",
-      "title": "以“共赢思维”服务好新就业群体",
-      "url": "https://www.news.cn/comments/20260323/efe0e584241d4d73a90d26a2633cbfd3/c.html",
-      "category": "comments",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "54a238ff604d2964542693ba84f7932e9f814c75",
-      "title": "人民锐评：全球“销冠”后，期待中国汽车“制造+服务”新品牌",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c436867-40687272.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-03-23",
-      "fingerprint": "1ddad9923c756cae345d3119ba00e3d3b237a16f",
-      "title": "人民网观点：筑梦成都，以人才之兴激发城市之进",
-      "url": "https://opinion.people.com.cn/n1/2026/0323/c223228-40687207.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-03-24",
       "fingerprint": "8cdcb4dad4e59a7f358b18a74728d3748d7b0193",
       "title": "市政府召开常务会议 研究推进国际科技创新中心建设有关工作等事项",
@@ -1367,6 +1119,86 @@
       "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574831.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "b52c3cb76111918f954a3522039014b60b0544fe",
+      "title": "清明假期多项举措保障新能源汽车用电需求",
+      "url": "https://news.cctv.com/2026/04/07/ARTI3W79UyZAcMDXR9NQ65yS260407.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "71c68db9170c8234f880a307db8df7ec1072fddb",
+      "title": "2026年清明假期交通出行人数预计超8.45亿人次",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7064786.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "ac0023716418fe4f51e8fe463054e8681291f9ab",
+      "title": "文物“活”起来 惠民落实处",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260407_4574890.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "92ca4b24c6a35d9c396d9488048c3092be1f8740",
+      "title": "文商旅体展多元场景深度融合 踏青出游释放春日活力 清明假期60个重点商圈消费超65亿元",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260407_4574892.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "54a15d57389c3a22cee0f9c8271e30304c2309f8",
+      "title": "国风沉浸式体验、轻户外微度假、品牌票根引流……文旅新玩法点燃春日经济活力",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260407_4574891.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "9c2d485b3deb79fb24aee8917562265c0599a4e6",
+      "title": "出游需求叠加释放 北京成最热旅游城市",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260407_4574894.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "8ae23331a13d60cc5dae84e45a5e783df22c4aa2",
+      "title": "人民网观点：摒弃“颜值至上”，让艺术创作回归本源",
+      "url": "https://opinion.people.com.cn/n1/2026/0404/c1003-40695364.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "7123b781792c648117d468fd2280b981d3d08b97",
+      "title": "7年两轮中央生态环保督察守护祖国绿水青山",
+      "url": "http://www.xinhuanet.com/comments/donglu.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "72668147fc5654a5bb8035c69eecd1f76077a915",
+      "title": "新华网评：让互联网更好造福世界各国人民",
+      "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-06",
+      "fingerprint": "4eff24972962408f2968fed6dac7e06ffd929751",
+      "title": "今日主角 | “普通老太太”一点儿也不普通",
+      "url": "http://www.xinhuanet.com/comments/fengwenya.htm",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
