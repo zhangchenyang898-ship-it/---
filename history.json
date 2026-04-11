@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-27",
-      "fingerprint": "7f08521262eb89d696e404632d6f5e9ec725dc54",
-      "title": "春天里的中国·万物萌动乐享春光",
-      "url": "https://news.cctv.com/2026/03/28/ARTIuYfEg61nnjWOZZMrxPFH260327.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-27",
-      "fingerprint": "c2a53f9d3112899bafb1f8ac0426f2f03c11b78d",
-      "title": "中共中央政治局召开会议 审议《中国共产党地方委员会工作条例》 中共中央总书记习近平主持会议",
-      "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7063982.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-27",
-      "fingerprint": "b6a2cd1ba159960ec331cda2226ce976ccac13d8",
-      "title": "新华网视评｜平台“内卷”，不能总让商家“买单”",
-      "url": "https://www.news.cn/comments/20260327/57af7570c2c4495798ca23405cb52314/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-03-27",
-      "fingerprint": "93398d3b7fbb6b9e063188f30b4876e23679c7da",
-      "title": "不给银发游低价骗局可乘之机",
-      "url": "https://www.news.cn/comments/20260327/f08b4367862a4683b021c1fcd1495c6e/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-03-27",
-      "fingerprint": "7128183f4359a0b11ac3152d201782559f55ae08",
-      "title": "“手搓”见证中国制造创新力",
-      "url": "https://www.news.cn/comments/20260327/97bc3bd9ac9b41ca88f05599a2c15396/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-03-28",
       "fingerprint": "19c914d840c04d9878ff68fb139ccd047c1f6c6a",
       "title": "春天里的中国 | 万物萌动乐享春光",
@@ -1047,6 +1007,46 @@
       "url": "https://www.news.cn/comments/20260409/ba5c3e6ff77a40e3b9cb90118d453f8b/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-10",
+      "fingerprint": "463bfd2cd08f45376f7b9225d95bc5672b5d35a1",
+      "title": "进度基本持平 全国春播粮食完成意向面积近一成",
+      "url": "https://news.cctv.com/2026/04/10/ARTIOmeaEuznzfHAiDWzI2dF260410.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-10",
+      "fingerprint": "73997cc96f97f6d2e4edb644e25e9e66d30c8b5e",
+      "title": "习近平出席全军高级干部培训班开班式并发表重要讲话",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7064925.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-10",
+      "fingerprint": "bb138b0d6ab4c57f2306b0111763c8d3744da66d",
+      "title": "国务院办公厅印发《关于加快建设分级诊疗体系的若干措施》",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7065066.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-10",
+      "fingerprint": "2acdbaee464dbf6ad3ce4c1f5662608006a2d6cb",
+      "title": "习近平总书记会见中国国民党主席郑丽文",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065151.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-10",
+      "fingerprint": "263fd6681a0ea0fa7d49bf46fa30f2796840b163",
+      "title": "习近平向中美“乒乓外交”55周年纪念大会暨中美青少年体育交流系列活动启动仪式致贺信",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065179.htm",
+      "category": "policy",
+      "source": "中国政府网"
     }
   ]
 }
