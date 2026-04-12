@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-28",
-      "fingerprint": "19c914d840c04d9878ff68fb139ccd047c1f6c6a",
-      "title": "春天里的中国 | 万物萌动乐享春光",
-      "url": "https://news.cctv.com/2026/03/29/ARTI0r63rumLxJNplp3pq5IM260329.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-28",
-      "fingerprint": "10a62b30e3d70f1bad4146124a7caa4a6ca7b303",
-      "title": "前2个月全国规模以上工业企业利润同比增长15.2%",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202603/content_7064024.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-03-28",
-      "fingerprint": "557eba27193ab3755195e956583d7ed20ea999d5",
-      "title": "中央第一、二、三生态环境保护督察组向北京天津河北反馈大运河生态环境保护专项督察情况",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260327_4568382.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-28",
-      "fingerprint": "4cc5300cbab57071762011243c218c62ed4b287e",
-      "title": "科幻想象正在照进现实 二〇二六中国科幻大会在首钢园启幕",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260328_4568584.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-28",
-      "fingerprint": "c304b3b98a60ca43e2158001d76bff207ad1a6cb",
-      "title": "数据跨境流动便利化综合配套改革3.0版方案发布 6大领域“一业一策”服务数据流通",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202603/t20260328_4568582.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-28",
-      "fingerprint": "d8ea3104d455a3a1bfe286fa5c3db46a57bffbf7",
-      "title": "人民网观点：以引领力+创造力繁荣网络内容生态",
-      "url": "https://opinion.people.com.cn/n1/2026/0328/c1003-40690696.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-03-29",
       "fingerprint": "0e18f7585608982fd8a5ceab5a214d1d73e9ad0c",
       "title": "“旧手机回收价格暴涨五六倍”是真的吗？真相来了",
@@ -1047,6 +999,54 @@
       "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065179.htm",
       "category": "policy",
       "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "6a9c483fd611f5d8456e98d35eca955562e1f66f",
+      "title": "2026人形机器人半程马拉松完成全流程全要素测试活动",
+      "url": "https://news.cctv.com/2026/04/12/ARTIg396IV3N5rbprtj5ST62260412.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "5814be676d6755cd650880674319952583291a0c",
+      "title": "树立和践行正确政绩观学习教育市委督导工作部署会议召开",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260411_4579984.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "b6181825ff0ea5c8af653e459b35436d5251cd2e",
+      "title": "市委教育科技人才工作领导小组会议召开 尹力主持 游钧出席",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/sw/202604/t20260411_4579977.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "d439a82cd77ca79a2f57ac7a7d6270e5c1fb4458",
+      "title": "树立和践行正确政绩观学习教育市委督导组派驻区和单位名单公布",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260411_4579985.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "fad6079a7d6cc94f16e1f55b97eb4ff5adbd1744",
+      "title": "本市200余万经营主体开启企业年报“移动办、智能填、信用享” 用户表示“3分钟就把年报填报完了”",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260411_4579981.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-11",
+      "fingerprint": "611f4e025c334ff214fbb73a71c1e2b98b15dfc3",
+      "title": "人民锐评：政务APP 别让便民变“烦民”",
+      "url": "https://opinion.people.com.cn/n1/2026/0411/c436867-40699422.html",
+      "category": "comments",
+      "source": "人民网评论"
     }
   ]
 }
