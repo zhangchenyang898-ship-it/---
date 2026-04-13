@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-03-29",
-      "fingerprint": "0e18f7585608982fd8a5ceab5a214d1d73e9ad0c",
-      "title": "“旧手机回收价格暴涨五六倍”是真的吗？真相来了",
-      "url": "https://news.cctv.com/2026/03/29/ARTIQnET7UaaqseQhCCbGMEN260329.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-03-29",
-      "fingerprint": "4776631608482867935d6083d8f8323750e2c7b4",
-      "title": "百年铁轨铺就AI创新“城市主轴”——百年京张AI创新带系列报道之“何以京张”",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260330_4569001.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-29",
-      "fingerprint": "9032c8de40effa1b4eaa7721ec948e36443e0d13",
-      "title": "文明新风润京华——二〇二五年北京市民公共行为文明指数保持持续上升态势",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202603/t20260330_4568991.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-29",
-      "fingerprint": "bde66061a2dccb9b177df4a02dc246fdd4608067",
-      "title": "北京未来数字街区开街 打造新技术首试、新产品首发、新场景首秀的综合试验场",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260330_4568993.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-03-29",
-      "fingerprint": "daa365bea5c98962198459e9035e5041924a9717",
-      "title": "中关村论坛年会落幕 120余位中外院士发表演讲 近8000家企业参与 全球创新力量激荡“中国舞台”",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260330_4568988.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-03-30",
       "fingerprint": "aeb5c96a8522219483bc94317d783b7eec493d26",
       "title": "新闻1+1 | 带薪休假，“贵”在落实！",
@@ -1047,6 +1007,78 @@
       "url": "https://opinion.people.com.cn/n1/2026/0411/c436867-40699422.html",
       "category": "comments",
       "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "0f964ae66026b1b1954ba3439a9600492f3a9976",
+      "title": "人形机器人半程马拉松赛4月19日开跑",
+      "url": "https://news.cctv.com/2026/04/13/ARTIqQkxQ0rEW37TQ0rgJIl1260412.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "1dd2e35f1a5d5c79c97890c9efe912b3c560f7f5",
+      "title": "第139届广交会将启 展览规模超往届水平",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7065283.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "6d6015d7dbf0d65d7c7dfa387193bbebc917270c",
+      "title": "总书记的人民情怀 | “走出一条中国特色城市现代化新路子”",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065344.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "a8aa844b72ef55c1b16d26211a7865cf7183f9f1",
+      "title": "2.2万名跑者共赴春日之约 北京半马刷新男子成绩全国纪录",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580185.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "a30cf2feeb1370c786f39d8aa633fef652e429ec",
+      "title": "焕新提升有基础 场景业态求创新 东西南北四大城市活力新片区将带来哪些变化",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580179.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "999976111eeaa33646c0913f8fd9bc9aeea9d2af",
+      "title": "南枢纽出租车调度站投用 旅客出行迎来新变化 北京南站打车“南北出租东西网约”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580183.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "cb0de2066f2c8b93c5e0fad57b381f6839eeec81",
+      "title": "34条措施为民营经济高质量发展加码赋能——2026年北京将立法保障民营经济发展",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580178.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "4b5bc05fec52d5d3a0d557e8b029a8fa7474e665",
+      "title": "人民锐评：反腐司法解释再升级 紧盯“新型隐性”",
+      "url": "https://opinion.people.com.cn/n1/2026/0412/c436867-40699688.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-12",
+      "fingerprint": "5ee5ffbecbef2ad3aee361ba74cf91ca11ed5b2d",
+      "title": "为两岸谋和平 为同胞谋福祉 为民族谋复兴",
+      "url": "https://www.news.cn/comments/20260411/ccd7dde307a74236bae05a9541670ac1/c.html",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
