@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-01",
-      "fingerprint": "e7c82c4dbeca701bdd421f39e739b7731249e926",
-      "title": "清明假期将至 两部门部署做好假期前后安全防范工作",
-      "url": "https://news.cctv.com/2026/04/02/ARTIHvgMGiY2Bc1cusWWf5D3260402.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "e9290f2651cd166b5fb3405078f991d545f54b4f",
-      "title": "2026年3月份我国制造业PMI升至50.4%",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202603/content_7064301.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "a90717f7cbca8e13d203e47109c0973628299a23",
-      "title": "尹力在全市安全生产工作部署会议上强调 确保城市安全运行社会和谐稳定",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202604/t20260402_4572723.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "32f5f4b590230f6c41ea91a246710e9ad7b02588",
-      "title": "上海市促进长三角政务服务“一网通办”规定",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260401/b83261592788473788f20e95dc2ec690.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "ce8bbad05d30af5b664b915b7f643b21353e08ed",
-      "title": "市政府召开常务会议 研究二〇二五年“七有”“五性”监测评价报告等事项",
-      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260402_4572727.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "36269a623e31c7d01cbb0e23445de2fa527ef132",
-      "title": "中美引领人工智能产业发展 北京成为全球AI创新“极核”",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260402_4572729.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "a9459b6e404edc10d80a0a0331b24c3e6ca8425e",
-      "title": "116家企业总估值7419亿美元 北京独角兽企业实现“双领跑”",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260402_4572728.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "8f3529327cd3015c550fc84ddc4b2357de97cdfd",
-      "title": "人民锐评：共同维护开放合作的国际学术交流环境",
-      "url": "https://opinion.people.com.cn/n1/2026/0402/c436867-40693737.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "59563c4e05700e081b23077c9d2da38d36af9e86",
-      "title": "新华网评：做难而正确的事，时间终会证明",
-      "url": "https://www.news.cn/comments/20260401/5c8f16bee84d418686ccc25543aea125/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "2e81ba7779f18bbcc477e310424b7fbe36388d65",
-      "title": "完善安全教育体系 护航青少年成长",
-      "url": "https://www.news.cn/comments/20260401/b72d181e9e1a496fa47068ee58677f6f/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "db7a35426227ee86e170c22af0de41192acc6a53",
-      "title": "体验经济，释放消费潜能新引擎",
-      "url": "https://www.news.cn/comments/20260401/9d2affea16f84e8dad86bc53131c6cba/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-01",
-      "fingerprint": "ac1707698dcdf87160002409e3c35ab9f9073741",
-      "title": "AI应用不可突破红线",
-      "url": "https://www.news.cn/comments/20260401/49f16479f599409da160e1fb3da46495/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-02",
       "fingerprint": "3af0f48b220289d79758fe6624e7970fb539682c",
       "title": "各地多措并举全力做好春灌“水文章”",
@@ -1053,6 +957,102 @@
       "fingerprint": "f6368bff5a89023f2030fb6bc8a14084494cce85",
       "title": "“城超”如何从破圈走向长红",
       "url": "https://www.news.cn/comments/20260414/f3f5a403bb654c8f962d46a016706c21/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "a232ed7d9408b7635426b71ba78edfce8464d5a8",
+      "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065680.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "560e5b23c8b3e1ecc09913fdc799de8c05e13d84",
+      "title": "习近平夫妇同苏林夫妇亲切话别",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065702.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "43ff7450410de0978646a35a5febfea0aceb3a32",
+      "title": "习近平同苏林共同会见中越青年代表",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065685.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "dc2ac9358b133ffafa81f1f4fd91aad15bf013f9",
+      "title": "习近平会见俄罗斯外长拉夫罗夫",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065629.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "e7b898de703a1d5f0f322bfe83202faa9911549b",
+      "title": "国家发展改革委与阿联酋投资部签署关于投资合作的谅解备忘录",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260415_1404709.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "8c83bfada0ccef23eddf4f3953ba0e979ab3b1a4",
+      "title": "北京市人力资源和社会保障局关于开展2026年北京市积分落户申报工作的通告",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202604/t20260415_4582384.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "a6fb2ae378f62c793eb4c065a3b9de6450c4c596",
+      "title": "京港高铁雄商段河北段开始联调联试",
+      "url": "https://news.cctv.com/2026/04/15/ARTIEn06bwkwwnn35hPg0D7U260415.shtml",
+      "category": "regional",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "b2d5398bc975d2f83000920f9a1a45bf42f2c9a2",
+      "title": "北京2026积分落户申报4月16日8时启动！规模6000人 同分同落",
+      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202604/t20260415_4582394.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "f2d149a1a90acfcb398922845866b61f7dd17e1a",
+      "title": "人民锐评：消博会，以发展实效见证自贸港新优势",
+      "url": "https://opinion.people.com.cn/n1/2026/0415/c436867-40701763.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "523cfed49ab6c5b068255369f337448088d6feac",
+      "title": "青年人缘何热衷于情绪消费",
+      "url": "https://www.news.cn/comments/20260415/47d8fbc55b3e49519c8620a1f533f92a/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "dd42003537350a16985cf86b2713ed44f60fff5c",
+      "title": "筑牢人民防线 谱写发展新篇",
+      "url": "https://www.news.cn/comments/20260415/3c0d801f084f4e7593c4bdadeed1d641/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-15",
+      "fingerprint": "5f65fc14f1fdf6a4372ebd3c9cdd7173b1ee4c23",
+      "title": "承包稳预期，信心地里来",
+      "url": "https://www.news.cn/comments/20260415/7d06f35321de4db5982de6fa1e9fd2ce/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
