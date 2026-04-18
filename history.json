@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-03",
-      "fingerprint": "8b8ecaf17bbc3e0bfb754b924e55051d476860d9",
-      "title": "6分钟烧掉180平方米枯草 织密祭祀“防火网”",
-      "url": "https://news.cctv.com/2026/04/04/ARTIGCBPSm6UXa3X2lG001xX260404.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "cd516a96a89230ed53057089ad5919b71c415be7",
-      "title": "市市场监管局关于印发《上海市广告产业园区管理办法》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260403/306e59d286da436586515c9c2db3d7d8.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "dba9857cd547f8c97697dd830716e94827833659",
-      "title": "上海市人民政府办公厅印发《关于进一步强化食品安全全链条监管的若干措施》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260403/6ab1cc37bb8345d597c837027fe9e449.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "3b44d1535e72477c352af4a1ee618b057a6be67e",
-      "title": "上海市人民政府办公厅关于印发《上海市加强政策公开全面提升政务透明度工作方案》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260403/900fbfeee0ba4298ba6c193d625a77be.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "5e4cb5620ca521fd50082d287ed4527231d9485a",
-      "title": "人民锐评：清点馆藏文物最终要落在完善制度上",
-      "url": "https://opinion.people.com.cn/n1/2026/0403/c436867-40695004.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "6bb6f272ab5af7492ed69dbff25e0af8d43d3cd3",
-      "title": "深化文旅融合增强文化自信",
-      "url": "https://www.news.cn/comments/20260403/355ff8445242401792f6fab1be68c194/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "15adbf4647039e8466861b750aba3c7d865125d1",
-      "title": "新华网评：给愿意改错的人留一扇门",
-      "url": "https://www.news.cn/comments/20260403/3ce6f6c10428476f88749b727f546c48/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "457dd5e08aff3afe5a0aefe80efa1f9004cd34e9",
-      "title": "新华网评：三问优思益“翻车”事件",
-      "url": "https://www.news.cn/comments/20260403/8f6f62d90dbe49c2abab24724fa0e83a/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-03",
-      "fingerprint": "2d9264e1573290bcf7d7202828e4e41d816c094a",
-      "title": "农技推广要讲究性价比",
-      "url": "https://www.news.cn/comments/20260403/5254bb2eebd84dec94da30f203351deb/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-04",
       "fingerprint": "9aa327dcffe035115debc2f76dfe49058190802e",
       "title": "国内航线燃油附加费今起调整",
@@ -1069,6 +997,70 @@
       "fingerprint": "8db7da8dc763e416e5cd94c7bea8e157a048c9b0",
       "title": "从乡愁中望见未来",
       "url": "https://www.news.cn/comments/20260416/44c29ade44c64243be03c634a7ced1ee/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "18e2d29afe5d14ae3e03de6fe99a83b2f5fd9183",
+      "title": "外资密集调研新兴产业 看好中国经济韧性",
+      "url": "https://news.cctv.com/2026/04/18/ARTI1JVLq6rikBxrnPcvuut9260418.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "166782c86df2226cde6158c414ec1cb0c0bb5a65",
+      "title": "习近平致电祝贺盖莱当选连任吉布提总统",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066088.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "8b98459401304cdf9ec9c64245669bbc6d472f72",
+      "title": "最新校历发布！2027年寒暑假时间确定",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260417_4589659.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "6955f42b97a1fa6e2891c1b11ccf1f0453ad4718",
+      "title": "北京市教育委员会关于2026年义务教育阶段入学工作的意见",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202604/t20260417_4589381.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "3d8a80c0b118a85c9af2996ce3bc07ca4f10e6f5",
+      "title": "各区义务教育阶段入学工作咨询电话",
+      "url": "https://www.beijing.gov.cn/fwcj/dianhua/fwdh/6644160cf3f8da0ed383537f.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "7ab2191568b56b8bda24fc78f166163596e33563",
+      "title": "微改造背后有三变",
+      "url": "https://www.news.cn/comments/20260417/58e5d2213dc54eebacbc41f9be38e6f4/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "3189ec92df5699e49a086aa0b0e1565b8390cbc0",
+      "title": "建设健康中国 从文明生活方式开始",
+      "url": "https://www.news.cn/comments/20260417/8b684897680f457cb2b46d7f49ecf192/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-17",
+      "fingerprint": "5a59f712d706017cb26cd663573a85354c11097c",
+      "title": "不能落下那个“背篓”",
+      "url": "https://www.news.cn/comments/20260417/7ee376a6a1454a81a03d36976742fce4/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
