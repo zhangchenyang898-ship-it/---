@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-04",
-      "fingerprint": "9aa327dcffe035115debc2f76dfe49058190802e",
-      "title": "国内航线燃油附加费今起调整",
-      "url": "https://news.cctv.com/2026/04/05/ARTIWOsMmFpeuBLiFYoNBY1J260405.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-04",
-      "fingerprint": "04d92058b239cc970cecf1f3667bb825502fc654",
-      "title": "2026年一季度消费品以旧换新销售额超4300亿元",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7064687.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-04",
-      "fingerprint": "7ba42c4167c3f1496e860019bb891e75dc03a66b",
-      "title": "市国动办全国首创人防工程“依规划”审批改革 助力优化营商环境“该建的一个不少 不该建的一个不建”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574778.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-04",
-      "fingerprint": "0f382384cce259577e5da7541275597df1448c60",
-      "title": "趣味游园 非遗体验 科普研学 追思怀远 市属公园踏青赏花正当时",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260404_4574782.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-04",
-      "fingerprint": "96e350f5387cc3f302d76f04bfb990dd065e6546",
-      "title": "企业出题 高校答题 市场阅卷 促进高校创新成果从“书架”走向“货架”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574775.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-04",
-      "fingerprint": "4545cba82a00c2a18a3a042400255c1c67224cff",
-      "title": "今年前两个月新入驻企业达100家 同比增长28% 首都机场临空区招商跑出“加速度”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260404_4574777.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-04-05",
       "fingerprint": "4f2c254a6026e218adbad3e1b147987ee980053f",
       "title": "内蒙古呼伦贝尔近亿亩草原进入休牧期",
@@ -1063,6 +1015,54 @@
       "url": "https://www.news.cn/comments/20260417/7ee376a6a1454a81a03d36976742fce4/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "cce375ec53564d5bc2738129e3ef5a480be7c47b",
+      "title": "丰富文旅体验 享受春光之美",
+      "url": "https://news.cctv.com/2026/04/19/ARTIbDcN2xGFebeANcVSIDFE260419.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "3c5b5be7c77ef2283bc41aa8a953c1fe61e7e246",
+      "title": "市政府召开常务会议 研究调度经济运行情况等事项",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260418_4591295.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "af67ddbcd925e4406fb75e4533398e0495d4fd3e",
+      "title": "商业航天“热浪”之下筑暖巢 北京卫星小镇核心区年内投用",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260418_4591307.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "0a0ac3c004289d5a6a99c55124a343f164b4f7f8",
+      "title": "全球首创新药、外资基金等成果相继落地 一季度“两区”建设迎来“开门红”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260418_4591300.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "ba84bc12779d6f6e11551469530737ba4a403aaf",
+      "title": "三大流域30余条河流今春计划 生态补水11.8亿立方米 市内重点公园将首次大规模换水",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260418_4591303.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-18",
+      "fingerprint": "e74ffad9ba3d96d9559fe29102a6c7428cdbb9ba",
+      "title": "“桥景共生”中的存量与增量",
+      "url": "https://opinion.people.com.cn/n1/2026/0416/c461529-40702176.html",
+      "category": "comments",
+      "source": "人民网评论"
     }
   ]
 }
