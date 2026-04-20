@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-05",
-      "fingerprint": "4f2c254a6026e218adbad3e1b147987ee980053f",
-      "title": "内蒙古呼伦贝尔近亿亩草原进入休牧期",
-      "url": "https://news.cctv.com/2026/04/06/ARTIii0gdbJocTlTQMXy9dqC260406.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-05",
-      "fingerprint": "fe938eea2c90d2c1535339da621cf589e72acdac",
-      "title": "警方定点值守、动态巡逻、及时疏导 “一园一策”守护踏青赏花安全",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260405_4574826.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-05",
-      "fingerprint": "9ee8a24245f3a31bae5493979a530bb462cbf93c",
-      "title": "带着晨露的果蔬直达餐桌 京郊土特产有了新销路 从田间到公园 “新鲜”市集连城乡",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574825.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-05",
-      "fingerprint": "b3158edeae6100b4ee8986714d152cc490dd6408",
-      "title": "假期首日市属公园迎客58.57万人次 天坛公园、颐和园、玉渊潭公园位列前三",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574824.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-05",
-      "fingerprint": "c28483428bf44c8d07a82b9d7c9a64175c3fd014",
-      "title": "交警启动高等级上勤 增设千余疏导岗 市民顺利祭扫舒心出游",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260405_4574831.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-04-06",
       "fingerprint": "b52c3cb76111918f954a3522039014b60b0544fe",
       "title": "清明假期多项举措保障新能源汽车用电需求",
@@ -1061,6 +1021,62 @@
       "fingerprint": "e74ffad9ba3d96d9559fe29102a6c7428cdbb9ba",
       "title": "“桥景共生”中的存量与增量",
       "url": "https://opinion.people.com.cn/n1/2026/0416/c461529-40702176.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "fb9d0b94ded3a754a53ba08b8044440e7bb24f4c",
+      "title": "粤港澳大湾区融合发展 文体交流更丰富",
+      "url": "https://news.cctv.com/2026/04/20/ARTIqfFHz4TfPAdZp3jU3LJh260420.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "c8c978d88e3f0bfbfcb78510581393f0720e6fb7",
+      "title": "“让互联网更好造福人民”——网络强国建设向纵深推进",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066266.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "98809e97a71edc6badf53e5b7816b886d4fb5c5e",
+      "title": "奔跑这一年 人形机器人全新蜕变",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260420_4595306.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "ecb67fc69f5dc72fc0c9f6f98c90eb1536af9405",
+      "title": "助力书香京城建设和全民阅读推广 二〇二六年首都大学生系列读书活动启动",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260420_4595311.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "bbf507bddf4008ae4247bf9f1b95cf5f0cbc8928",
+      "title": "公共服务共建共享 主要城市1至1.5小时交通圈基本形成 现代化首都都市圈加快建设",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260420_4595314.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "dda54ff899c3d07522117224046350f6ac54583a",
+      "title": "“北脑二号”预计2026年内进入临床",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260420_4595317.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-19",
+      "fingerprint": "34f9aff733de3304a4cae1101d62716f4493aab0",
+      "title": "人民网观点：禁播十年，谁在给《东京食尸鬼》“续命”？",
+      "url": "https://opinion.people.com.cn/n1/2026/0419/c223228-40704077.html",
       "category": "comments",
       "source": "人民网评论"
     }
