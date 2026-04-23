@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-08",
-      "fingerprint": "d060b0f48716a50b7f47e6e719d74e762d7f75de",
-      "title": "华南多地高温持续 农业生产如何应对？",
-      "url": "https://news.cctv.com/2026/04/09/ARTIcCLfwDWBXDPInLRD9di7260408.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "557d946a6347a179a4e1e45ea3dda9b351e012d1",
-      "title": "习近平就服务业发展作出重要指示",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7064901.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "4165f9ffcdf1c3e40c51a5430b5b3ac45689f649",
-      "title": "习近平在全军高级干部培训班开班式上发表重要讲话",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7064925.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "fa595dc1029c76320412cf78e9ff83668b86e6fa",
-      "title": "清明节假期全国国内出游1.35亿人次",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7064871.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "15350db9da69c7c147e6747426e8efe0d9d3a9c6",
-      "title": "全国人大常委会部分组成人员在京义务植树 李秀领参加",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202604/t20260409_4577180.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "b80b4204cfb769acf48f32670131a245322c1bd8",
-      "title": "静安区发展和改革委员会、静安区科技和经济委员会关于印发《静安区打造人工智能创新应用示范区三年行动方案（2026—2028年）》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260408/3cc6e04252b44989b7e3adec63d62dbd.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "3e1e62cce2822b85472da6ab334cec7e1578bd06",
-      "title": "非机动车文明出行倡议书发布 号召市民规范佩戴头盔 党员干部要充分发挥示范带动作用",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260409_4577185.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "22b6278359d13d99c061fa36508207cd3e4a17ac",
-      "title": "帮助毕业生沉浸式体验岗位工作、积累实战经验 “十五五”期间怀柔将建成100家实习实践基地",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260409_4577182.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "cd42b80c2c7ec830569e4d9b426295cf388ef75b",
-      "title": "北交所一揽子优化措施落地 再融资节奏加快 助优质企业“加速跑”",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260409_4577184.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "178600905bc108df1ae3bd976376b406de781a10",
-      "title": "中共上海市普陀区委办公室 上海市普陀区人民政府办公室印发《2026年普陀区为民办实事项目》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260408/2376f1d78f69460c95a235ec7c8fcaa1.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-08",
-      "fingerprint": "6a49a7f02894261f05c16df2ee824d98ab185643",
-      "title": "上海市发展和改革委员会关于车用汽、柴油价格的通知（2026年4月7日）",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260407/bb389a16ba4349ceba746c4bdb8cbd2f.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
       "report_date": "2026-04-09",
       "fingerprint": "aa028980746cb19451064652e411730159bc2e42",
       "title": "海南多地持续高温 多部门联动抗旱保收",
@@ -1141,6 +1053,102 @@
       "fingerprint": "322995fa9a4c6fe03f3955c96027283500ff8f71",
       "title": "新华网评：“外挂”岂能乱挂",
       "url": "https://www.news.cn/comments/20260421/5936fe6c531341688946d64e8f48cd17/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "34c36c8fc9ddbaa055de07ccab69154045e27d52",
+      "title": "中国大蒜做梦也没想到，竟被美国列为“国家安全威胁”",
+      "url": "https://news.cctv.com/2026/04/22/ARTIK0CJKirsfqMBGpOh9bYX260422.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "8b128a850377daa802163d2fac2339de6ef80552",
+      "title": "李强会见莫桑比克总统查波",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066530.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "3a992856a9150b48b7c431aa5da3ad3ba410da18",
+      "title": "一季度我国交通出行人数为177.7亿人次",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7066640.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "b829d15aea0d121a52d5668fa8bcb1026177048d",
+      "title": "市政府召开常务会议 研究中央生态环境保护督察整改有关工作等事项 市长殷勇主持会议",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260423_4604859.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "87ca141c36fdf3d9a83b572d5068575626981bb7",
+      "title": "上海市人民政府关于贺青等同志职务任免的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260422/2c34c23aeed74f8ab1ce2d6b51a35bf8.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "294e1fbcc27be6835ccff35a2f2c9359b0f4b8cb",
+      "title": "连续12个季度经济累计增速超5% 2026年北京经济圆满实现“开门红”",
+      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202604/t20260423_4604853.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "0ed476309317df19066e1e6a7c0ea23d8db1b4df",
+      "title": "京津冀协同发展引领现代化首都都市圈建设提速",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260423_4604865.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "8984d7481e4bfe13c1e73454d0c4e76f3e3d358c",
+      "title": "书店、剧场、艺术中心接连落地 隆福寺文化版图持续丰盈 六百年隆福寺文脉新生",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260423_4604871.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "4f092ba19daf4f71e3463bea2037823b5ab44ef4",
+      "title": "人民锐评：该将“锁电”摆在明面上来说清楚了！",
+      "url": "https://opinion.people.com.cn/n1/2026/0422/c436867-40706661.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "4e6b77332f609be6fcd00038a4ababcd05ce4f95",
+      "title": "新华网评：屏幕再大，语音再灵，没有安全都是零",
+      "url": "https://www.news.cn/comments/20260422/1038513401c649e39f0bff86fe4517ba/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "aefd6b6e4352c078b04acae641ed4f1415153ea9",
+      "title": "建设完整社区的一道必答题",
+      "url": "https://www.news.cn/comments/20260422/9557fcf9ecd045c2990494fcac993251/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-22",
+      "fingerprint": "139420dcecd9f661674b5d167308f48498be7a67",
+      "title": "人形机器人“跑”出加速度",
+      "url": "https://www.news.cn/comments/20260422/6bc1ec8a09c94320944c8e00dc930251/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
