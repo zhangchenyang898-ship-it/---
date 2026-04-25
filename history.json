@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-10",
-      "fingerprint": "463bfd2cd08f45376f7b9225d95bc5672b5d35a1",
-      "title": "进度基本持平 全国春播粮食完成意向面积近一成",
-      "url": "https://news.cctv.com/2026/04/10/ARTIOmeaEuznzfHAiDWzI2dF260410.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-10",
-      "fingerprint": "73997cc96f97f6d2e4edb644e25e9e66d30c8b5e",
-      "title": "习近平出席全军高级干部培训班开班式并发表重要讲话",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7064925.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-10",
-      "fingerprint": "bb138b0d6ab4c57f2306b0111763c8d3744da66d",
-      "title": "国务院办公厅印发《关于加快建设分级诊疗体系的若干措施》",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7065066.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-10",
-      "fingerprint": "2acdbaee464dbf6ad3ce4c1f5662608006a2d6cb",
-      "title": "习近平总书记会见中国国民党主席郑丽文",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065151.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-10",
-      "fingerprint": "263fd6681a0ea0fa7d49bf46fa30f2796840b163",
-      "title": "习近平向中美“乒乓外交”55周年纪念大会暨中美青少年体育交流系列活动启动仪式致贺信",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065179.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
       "report_date": "2026-04-11",
       "fingerprint": "6a9c483fd611f5d8456e98d35eca955562e1f66f",
       "title": "2026人形机器人半程马拉松完成全流程全要素测试活动",
@@ -1119,6 +1079,54 @@
       "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260424_4607996.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "062f1664809570e79d47e1da5ea619b31a6e7d38",
+      "title": "生猪价格创新低 零售市场和居民消费体验有哪些变化？",
+      "url": "https://news.cctv.com/2026/04/25/ARTIsgQmkf7kWSsl5s0EuoEf260425.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "7eaa35f38fe3763171334e8833d0041dc72163ab",
+      "title": "郑栅洁主任会见空客公司全球首席执行官傅里",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260424_1404870.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "c21aeb53d0fb2a3c300a3fa51a523dfe5bbed337",
+      "title": "市政府新闻发布会介绍第七届上海“五五购物节”总体情况及相关工作安排",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260424/1dc3a8c4110a40e7820512b38e1eaccc.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "a09a8e1e87ce5f38cefbb8e88991d17fb9b43863",
+      "title": "人民锐评：“倒贴式”招商闹剧背后是“政绩饥渴”",
+      "url": "https://opinion.people.com.cn/n1/2026/0425/c436867-40708484.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "7c1cd16fab6eccfc3ba18b36c9d7d7db14280476",
+      "title": "新华网评：不是这些食品有毒，而是伪科普有毒",
+      "url": "https://www.news.cn/comments/20260424/1f91c948317f4310b09ac2013f4e5f26/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-24",
+      "fingerprint": "2dd253972f1776b36e6c436ea0125a39691927c7",
+      "title": "新华网评：“心机商标”该歇歇了",
+      "url": "https://www.news.cn/comments/20260424/af3269d0c3b3433fbed134b5eca3dace/c.html",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
