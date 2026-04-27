@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-12",
-      "fingerprint": "0f964ae66026b1b1954ba3439a9600492f3a9976",
-      "title": "人形机器人半程马拉松赛4月19日开跑",
-      "url": "https://news.cctv.com/2026/04/13/ARTIqQkxQ0rEW37TQ0rgJIl1260412.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "1dd2e35f1a5d5c79c97890c9efe912b3c560f7f5",
-      "title": "第139届广交会将启 展览规模超往届水平",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7065283.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "6d6015d7dbf0d65d7c7dfa387193bbebc917270c",
-      "title": "总书记的人民情怀 | “走出一条中国特色城市现代化新路子”",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065344.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "a8aa844b72ef55c1b16d26211a7865cf7183f9f1",
-      "title": "2.2万名跑者共赴春日之约 北京半马刷新男子成绩全国纪录",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580185.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "a30cf2feeb1370c786f39d8aa633fef652e429ec",
-      "title": "焕新提升有基础 场景业态求创新 东西南北四大城市活力新片区将带来哪些变化",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580179.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "999976111eeaa33646c0913f8fd9bc9aeea9d2af",
-      "title": "南枢纽出租车调度站投用 旅客出行迎来新变化 北京南站打车“南北出租东西网约”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580183.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "cb0de2066f2c8b93c5e0fad57b381f6839eeec81",
-      "title": "34条措施为民营经济高质量发展加码赋能——2026年北京将立法保障民营经济发展",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260413_4580178.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "4b5bc05fec52d5d3a0d557e8b029a8fa7474e665",
-      "title": "人民锐评：反腐司法解释再升级 紧盯“新型隐性”",
-      "url": "https://opinion.people.com.cn/n1/2026/0412/c436867-40699688.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-12",
-      "fingerprint": "5ee5ffbecbef2ad3aee361ba74cf91ca11ed5b2d",
-      "title": "为两岸谋和平 为同胞谋福祉 为民族谋复兴",
-      "url": "https://www.news.cn/comments/20260411/ccd7dde307a74236bae05a9541670ac1/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-13",
       "fingerprint": "de28a12558ba08a743b8e4a15477368a9eea1d79",
       "title": "人形机器人半程马拉松赛4月19日开跑 记者探营",
@@ -1135,6 +1063,46 @@
       "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-26",
+      "fingerprint": "414a415cad8a02a640415ae53a101ac70e9a9c50",
+      "title": "全国春播进展顺利 意向面积总体稳定",
+      "url": "https://news.cctv.com/2026/04/27/ARTIZsOF1WLgJA2tAcDa4pGe260427.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-26",
+      "fingerprint": "2e512a56e7fc2b3f1c97aed1297c0f26a381ef62",
+      "title": "每万人口拥有高价值发明专利居全国首位 本市有效发明专利量达74.8万件",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260427_4615513.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-26",
+      "fingerprint": "21a8fdd15810afc033effcd685ba8cde6b33407c",
+      "title": "北京首个“全民阅读活动周”圆满收官 让阅读成为触手可及的生活方式",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260427_4615498.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-26",
+      "fingerprint": "c887b5cd680e584fdad17305bd9d4a0a79876b9e",
+      "title": "“北京范儿”短视频大赛进校园 大学生用镜头记录北京科创故事",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260427_4615502.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-26",
+      "fingerprint": "bdeda2f06e7a30b857538936fa3910e4ab08a006",
+      "title": "2026北京书市绘就“全城共读”生动图景 四大集中展场接待读者超75万人次",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260427_4615510.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
