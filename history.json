@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-14",
-      "fingerprint": "c77396bdbb0fd9d06547a1d91c57f48776e771f4",
-      "title": "2026年全国两会",
-      "url": "https://www.news.cn/zt/gz2026qglh/index.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "666e3ef0d1dfd51cce1fe19286d37d36cdee868d",
-      "title": "树立和践行正确政绩观",
-      "url": "https://www.news.cn/zt/slhjxzqzjg/index.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "ad00ce8b986fe1a99cc3340f5e01754e89b6ab6b",
-      "title": "国家发展改革委召开树立和践行正确政绩观学习教育部署推进会",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260414_1404652.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "dab254c75ff141dcc9f86248d47db079b76f363a",
-      "title": "李强同西班牙首相桑切斯会谈",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065562.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "51b415a3f85b3c2d515532413332615d51093abc",
-      "title": "习近平会见阿联酋阿布扎比王储哈立德",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065514.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "5e2b218925b0c6fc95ce2e218de0c2b42eca48a7",
-      "title": "习近平会见西班牙首相桑切斯",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065523.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "0658d5ecdd797457d9cb812ed1516e4b4fc74af6",
-      "title": "周海兵副主任会见安哥拉矿产资源、石油和天然气部部长阿泽维多",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260414_1404653.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "eb80db47c825d061a09732c74f33eb6928965b4c",
-      "title": "2026年一季度我国进出口增速创近5年最高",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7065575.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "ea636fa201ec7e6dae8f9156de51a0fc30192b84",
-      "title": "首都医保：书写守护群众健康温暖答卷",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260415_4582145.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "f891076f1efa2e8563504580cb0cc5171cfeed64",
-      "title": "聚焦科技创新到技术应用全流程 “一产一盟”定制培养急需人才",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260415_4582144.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "ce39363821096b1b9c33c24649a1bf205b731c37",
-      "title": "北京市重点领域绿色低碳转型取得显著成效 “十四五”降碳目标完成 “十五五”提升气候应变能力",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260415_4582143.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "7c2d0285413fc5eb620422393a71c28572e4eed5",
-      "title": "以高水平安全护航“十五五”高质量发展",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260415_4582142.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "66e482c508d66e5c477b094015c70403375fe3da",
-      "title": "自嘲是一种轻盈的治愈",
-      "url": "https://www.news.cn/comments/20260414/2343a9a0eb5140fca8fdeb0526a492f6/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "7ffdddb31b647a661e2257fcb7b2d27d06d5fa9e",
-      "title": "扬特色之长，走差异之路",
-      "url": "https://www.news.cn/comments/20260414/7c6ac8c49c6541b9853d9632e7a9461e/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-14",
-      "fingerprint": "f6368bff5a89023f2030fb6bc8a14084494cce85",
-      "title": "“城超”如何从破圈走向长红",
-      "url": "https://www.news.cn/comments/20260414/f3f5a403bb654c8f962d46a016706c21/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-15",
       "fingerprint": "a232ed7d9408b7635426b71ba78edfce8464d5a8",
       "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
@@ -1125,6 +1005,54 @@
       "fingerprint": "4eff24972962408f2968fed6dac7e06ffd929751",
       "title": "今日主角 | “普通老太太”一点儿也不普通",
       "url": "http://www.xinhuanet.com/comments/fengwenya.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "6e9d56d2bbee3bea1b88cf96ad8487faa0780d6e",
+      "title": "我国新增两处世界地质公园",
+      "url": "https://news.cctv.com/2026/04/29/ARTIahUEA7hFb3e2Eup7rZMQ260429.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "666e3ef0d1dfd51cce1fe19286d37d36cdee868d",
+      "title": "树立和践行正确政绩观",
+      "url": "https://www.news.cn/zt/slhjxzqzjg/index.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "9edcc0e08f62932889b96214e490b78a0eb4c33a",
+      "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7067187.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "ecf63ada4448f886607f300aad4a345e6c02974f",
+      "title": "2026年前3个月全国规模以上工业企业利润增长15.5%",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7067080.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "f316080e82dbf04d67b3b718ae0f9ab28a252ccc",
+      "title": "人民锐评：AI“提前查分”给数字政务安全敲了警钟",
+      "url": "https://opinion.people.com.cn/n1/2026/0428/c436867-40710284.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-28",
+      "fingerprint": "7531f17bde7dbf78e74ecb136654b879f3171aa5",
+      "title": "新华网视评丨代驾服务乱象，该治一治了",
+      "url": "https://www.news.cn/comments/20260428/fc8e70481619476e97bb38fca588c5a6/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
