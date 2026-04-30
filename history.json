@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-15",
-      "fingerprint": "a232ed7d9408b7635426b71ba78edfce8464d5a8",
-      "title": "习近平同越共中央总书记、国家主席苏林举行会谈",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065680.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "560e5b23c8b3e1ecc09913fdc799de8c05e13d84",
-      "title": "习近平夫妇同苏林夫妇亲切话别",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065702.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "43ff7450410de0978646a35a5febfea0aceb3a32",
-      "title": "习近平同苏林共同会见中越青年代表",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065685.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "dc2ac9358b133ffafa81f1f4fd91aad15bf013f9",
-      "title": "习近平会见俄罗斯外长拉夫罗夫",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7065629.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "e7b898de703a1d5f0f322bfe83202faa9911549b",
-      "title": "国家发展改革委与阿联酋投资部签署关于投资合作的谅解备忘录",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260415_1404709.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "8c83bfada0ccef23eddf4f3953ba0e979ab3b1a4",
-      "title": "北京市人力资源和社会保障局关于开展2026年北京市积分落户申报工作的通告",
-      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202604/t20260415_4582384.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "a6fb2ae378f62c793eb4c065a3b9de6450c4c596",
-      "title": "京港高铁雄商段河北段开始联调联试",
-      "url": "https://news.cctv.com/2026/04/15/ARTIEn06bwkwwnn35hPg0D7U260415.shtml",
-      "category": "regional",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "b2d5398bc975d2f83000920f9a1a45bf42f2c9a2",
-      "title": "北京2026积分落户申报4月16日8时启动！规模6000人 同分同落",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202604/t20260415_4582394.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "f2d149a1a90acfcb398922845866b61f7dd17e1a",
-      "title": "人民锐评：消博会，以发展实效见证自贸港新优势",
-      "url": "https://opinion.people.com.cn/n1/2026/0415/c436867-40701763.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "523cfed49ab6c5b068255369f337448088d6feac",
-      "title": "青年人缘何热衷于情绪消费",
-      "url": "https://www.news.cn/comments/20260415/47d8fbc55b3e49519c8620a1f533f92a/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "dd42003537350a16985cf86b2713ed44f60fff5c",
-      "title": "筑牢人民防线 谱写发展新篇",
-      "url": "https://www.news.cn/comments/20260415/3c0d801f084f4e7593c4bdadeed1d641/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-15",
-      "fingerprint": "5f65fc14f1fdf6a4372ebd3c9cdd7173b1ee4c23",
-      "title": "承包稳预期，信心地里来",
-      "url": "https://www.news.cn/comments/20260415/7d06f35321de4db5982de6fa1e9fd2ce/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-16",
       "fingerprint": "84cab47e28aa849253bbe0c7e1aeb5069e2636cc",
       "title": "从两小时到二十分钟 西延高铁让“双城生活”触手可及",
@@ -1053,6 +957,86 @@
       "fingerprint": "7531f17bde7dbf78e74ecb136654b879f3171aa5",
       "title": "新华网视评丨代驾服务乱象，该治一治了",
       "url": "https://www.news.cn/comments/20260428/fc8e70481619476e97bb38fca588c5a6/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "a26eb7948a39a7b4321acd1034822fa192299eb0",
+      "title": "市场监管总局部署开展“网红食品”突出问题专项整治行动",
+      "url": "https://news.cctv.com/2026/04/30/ARTIKEPGYPdbdyxRIrSbqG4T260430.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "e10ec78f29a37999d36e00e60bb70435589f22a1",
+      "title": "习近平：着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全",
+      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7067374.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "bbd96c6b056bdd577c835791fc9c7a703049dd1d",
+      "title": "一季度我国交通重大工程完成投资约3300亿元",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7067300.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "300acc095096a0407896ee37ad7f472eb4d967ba",
+      "title": "金融支持首都经济实现良好开局 一季度社会融资规模增量超6488亿元",
+      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202604/t20260430_4623517.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "f515be363b642c6f7e5c59cfff800a0477c0adfe",
+      "title": "多条地铁完成设备更新 市民出行更舒适 地铁1号线将更换28列新车",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260430_4623521.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "1103bfd90ed1d7a71150afa6502451ae2a51298d",
+      "title": "八大火车站服务升级 假期出行旅途享便利",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260430_4623519.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "524703a16415f8bd2c841624d66c078d84e96305",
+      "title": "一季度首都都市圈外贸进出口值破万亿元",
+      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202604/t20260430_4623515.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "d481150fc865eea11ef0630e6230ce673d4a89e8",
+      "title": "人民锐评：耕地变墓地，各级部门履职何在？",
+      "url": "https://opinion.people.com.cn/n1/2026/0429/c436867-40711209.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "95259978dba4fea6a8001769ca218777c5bc319b",
+      "title": "用好标准这个“通用语言”",
+      "url": "https://www.news.cn/comments/20260429/d72b75bab2d44d7d87e0a6d17d2f9c53/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-04-29",
+      "fingerprint": "6b77660c2d3c8fdaaa988f91a81afd9dd3172175",
+      "title": "“爆火”的劳动课，是青年与社会的热烈对话",
+      "url": "https://www.news.cn/comments/20260429/67749e32a43e407898eebbd062209748/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
