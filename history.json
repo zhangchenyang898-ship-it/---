@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-17",
-      "fingerprint": "18e2d29afe5d14ae3e03de6fe99a83b2f5fd9183",
-      "title": "外资密集调研新兴产业 看好中国经济韧性",
-      "url": "https://news.cctv.com/2026/04/18/ARTI1JVLq6rikBxrnPcvuut9260418.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "166782c86df2226cde6158c414ec1cb0c0bb5a65",
-      "title": "习近平致电祝贺盖莱当选连任吉布提总统",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066088.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "8b98459401304cdf9ec9c64245669bbc6d472f72",
-      "title": "最新校历发布！2027年寒暑假时间确定",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260417_4589659.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "6955f42b97a1fa6e2891c1b11ccf1f0453ad4718",
-      "title": "北京市教育委员会关于2026年义务教育阶段入学工作的意见",
-      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202604/t20260417_4589381.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "3d8a80c0b118a85c9af2996ce3bc07ca4f10e6f5",
-      "title": "各区义务教育阶段入学工作咨询电话",
-      "url": "https://www.beijing.gov.cn/fwcj/dianhua/fwdh/6644160cf3f8da0ed383537f.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "7ab2191568b56b8bda24fc78f166163596e33563",
-      "title": "微改造背后有三变",
-      "url": "https://www.news.cn/comments/20260417/58e5d2213dc54eebacbc41f9be38e6f4/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "3189ec92df5699e49a086aa0b0e1565b8390cbc0",
-      "title": "建设健康中国 从文明生活方式开始",
-      "url": "https://www.news.cn/comments/20260417/8b684897680f457cb2b46d7f49ecf192/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-17",
-      "fingerprint": "5a59f712d706017cb26cd663573a85354c11097c",
-      "title": "不能落下那个“背篓”",
-      "url": "https://www.news.cn/comments/20260417/7ee376a6a1454a81a03d36976742fce4/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-18",
       "fingerprint": "cce375ec53564d5bc2738129e3ef5a480be7c47b",
       "title": "丰富文旅体验 享受春光之美",
@@ -989,6 +925,54 @@
       "fingerprint": "099858ae078dacabe93263ab6275ec2c71300e17",
       "title": "人民锐评：悬在张北坡头的隐患亟待系统性解决",
       "url": "https://opinion.people.com.cn/n1/2026/0430/c436867-40711948.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "7999e0034201052d6ad8be601cdaab56c1dda3ce",
+      "title": "新职业 新机遇 新职业增动能 如何培育壮大？",
+      "url": "https://news.cctv.com/2026/05/02/ARTIbqQZ0AKGoDIxlGu9oMpD260502.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "09d3d244358252e5bb792be3a7c8c1ab8ecdf59e",
+      "title": "北京市全民国防教育专项工作机制第一次全体会议召开",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260501_4633370.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "13607eeda5498b29970c09a2997b83133280b710",
+      "title": "全市各大商圈、文旅景区、餐饮企业联动 近300项促消费活动乐享“五一”",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260501_4633368.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "153b33e1f2679cdd7993d69cdb1ca3e56cd06235",
+      "title": "《北京城市副中心条例》5月1日起施行 城市副中心迈入法治化高质量发展新阶段",
+      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202605/t20260501_4633367.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "6690211cb39d76e5c652cb7d7cc839ed17139b8b",
+      "title": "“五一”北京迎赛事“超级假日” 多场精品赛事与潮流运动活动遍布全城",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260501_4633369.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-01",
+      "fingerprint": "59d9c5db8c3019f93038e779fdf022545c5c34b8",
+      "title": "壹时评：以劳动之姿，赴时代之约",
+      "url": "https://opinion.people.com.cn/n1/2026/0501/c223228-40712455.html",
       "category": "comments",
       "source": "人民网评论"
     }
