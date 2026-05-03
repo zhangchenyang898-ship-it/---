@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-18",
-      "fingerprint": "cce375ec53564d5bc2738129e3ef5a480be7c47b",
-      "title": "丰富文旅体验 享受春光之美",
-      "url": "https://news.cctv.com/2026/04/19/ARTIbDcN2xGFebeANcVSIDFE260419.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-18",
-      "fingerprint": "3c5b5be7c77ef2283bc41aa8a953c1fe61e7e246",
-      "title": "市政府召开常务会议 研究调度经济运行情况等事项",
-      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260418_4591295.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-18",
-      "fingerprint": "af67ddbcd925e4406fb75e4533398e0495d4fd3e",
-      "title": "商业航天“热浪”之下筑暖巢 北京卫星小镇核心区年内投用",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260418_4591307.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-18",
-      "fingerprint": "0a0ac3c004289d5a6a99c55124a343f164b4f7f8",
-      "title": "全球首创新药、外资基金等成果相继落地 一季度“两区”建设迎来“开门红”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260418_4591300.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-18",
-      "fingerprint": "ba84bc12779d6f6e11551469530737ba4a403aaf",
-      "title": "三大流域30余条河流今春计划 生态补水11.8亿立方米 市内重点公园将首次大规模换水",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260418_4591303.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-18",
-      "fingerprint": "e74ffad9ba3d96d9559fe29102a6c7428cdbb9ba",
-      "title": "“桥景共生”中的存量与增量",
-      "url": "https://opinion.people.com.cn/n1/2026/0416/c461529-40702176.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-04-19",
       "fingerprint": "fb9d0b94ded3a754a53ba08b8044440e7bb24f4c",
       "title": "粤港澳大湾区融合发展 文体交流更丰富",
@@ -975,6 +927,46 @@
       "url": "https://opinion.people.com.cn/n1/2026/0501/c223228-40712455.html",
       "category": "comments",
       "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-02",
+      "fingerprint": "fd196ebcb5a5e4c7f0ce38ad3afcd6919612b9a7",
+      "title": "特色文旅活动点燃“五一”假期",
+      "url": "https://news.cctv.com/2026/05/03/ARTIKDdevUPQYm9omRCJpNNP260503.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-02",
+      "fingerprint": "1110fd18694d60a50021bb4b237ac1f345586506",
+      "title": "新修订的《北京市非机动车管理条例》实施首日 全市主要路口设置宣传提示岗 骑乘电动自行车必须佩戴安全头盔",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634059.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-02",
+      "fingerprint": "972ae3b6f95bd97b1513b8b158cef2631fe2d14a",
+      "title": "推动京津冀文化协同发展 首图“京城有戏”系列活动启幕",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634060.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-02",
+      "fingerprint": "fa453ae15b968ae0e2f6fea3c307fffc13eb03de",
+      "title": "假期首日市属公园迎客超五十万人次 天坛公园、颐和园、景山公园客流排前三",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634061.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-02",
+      "fingerprint": "9fbbb565bd6f609ca9075d64e17e02581e1668d8",
+      "title": "2025年年报披露收官 北交所上市公司盈利面超八成",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260502_4634063.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
