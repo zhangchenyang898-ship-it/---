@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-21",
-      "fingerprint": "72bd4df56e5258005387f670f82d1ec96bba182d",
-      "title": "三部门发文聚焦“工厂生产开关窗” 杜绝“一刀切”执法",
-      "url": "https://news.cctv.com/2026/04/22/ARTITxoOvHpi5Gi1JxlT7smS260422.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "5b703db6e80bf75e4f995b725b6dbf93d16a2d16",
-      "title": "习近平会见老挝人民革命党中央总书记、国家主席特使沙伦赛",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066497.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "2b0ded778318216651d8e0f2f4ba0d047a6ed7cd",
-      "title": "国家主席习近平任免驻外大使",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066516.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "58e47a7f71e9181e736fe3247d8f8ff022b28b8e",
-      "title": "习近平同莫桑比克总统查波会谈",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066525.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "8b1f85637f2dd1e74a61844b3d5c7f58b78678d5",
-      "title": "2026年4月21日国内成品油价格下调",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260421_1404789.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "075a30c06532f1fa523416a22f9c801017574c6e",
-      "title": "一季度服务业增加值占国内生产总值比重为61.7%",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7066462.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "20ec8c30634d27cf501afd7af57ac0e6461efc8e",
-      "title": "机器人比拼十八般“武艺” 加速迈向“实用生产力” 第二届世界人形机器人运动会8月开幕",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260422_4601661.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "43a53e45f4f9cd2d7071ae1518f266258c6a19d4",
-      "title": "市政府新闻发布会介绍上海推进知识产权强市建设、加快新质生产力发展等有关情况",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260421/0cc0a7d0b6e841989c56ca0fe1aced5e.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "a79c875f963671f88e489f0318046af5983b9bd2",
-      "title": "尹力分别会见英国保诚集团和美国通用电气医疗集团负责人",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202604/t20260422_4601657.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "cd0e3bd22eac3954ae2d7b0dcfa498f88491f812",
-      "title": "六大展区聚焦前沿科技未来产业 800余家企业机构将亮相北京科博会",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202604/t20260422_4601667.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "e5ce4084599a25bca9dfe4a11d046ed7cce606aa",
-      "title": "400余场春日活动 解锁运河文脉新体验 城市副中心备好“水岸联动”文旅大餐",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260422_4601663.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "7dd250d5c97f7da373f0792ea442b139bec5bca2",
-      "title": "上海市发展和改革委员会关于车用汽、柴油价格的通知（2026年4月21日）",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260421/90eaae38726749bbac8dc1af2718672e.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "c56757f19114194e39d9c894b8b13fca7073a3c9",
-      "title": "上海市人民政府办公厅关于印发《国家数字经济创新发展试验区（上海）实施方案》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260421/9edf5d5c1b2244298c315304349d0963.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "0233ec2bb4bfcff2be485aa77d99c1b922226e82",
-      "title": "人民锐评：全民阅读时代，实体书店如何转型升级？",
-      "url": "https://opinion.people.com.cn/n1/2026/0421/c436867-40705743.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-21",
-      "fingerprint": "322995fa9a4c6fe03f3955c96027283500ff8f71",
-      "title": "新华网评：“外挂”岂能乱挂",
-      "url": "https://www.news.cn/comments/20260421/5936fe6c531341688946d64e8f48cd17/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-22",
       "fingerprint": "34c36c8fc9ddbaa055de07ccab69154045e27d52",
       "title": "中国大蒜做梦也没想到，竟被美国列为“国家安全威胁”",
@@ -903,6 +783,54 @@
       "url": "https://opinion.people.com.cn/n1/2026/0504/c1003-40713418.html",
       "category": "comments",
       "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "fefd7185a7077cd24eb683890bb25ddc4c76b450",
+      "title": "你要为谁点个赞？点赞每一位努力的人",
+      "url": "https://news.cctv.com/2026/05/06/ARTImBWOj5tgn2gvVDi4NMIy260505.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "a0042c9b102a5797ec91c40f06c86c263f4e2e56",
+      "title": "大国之大利天下——2026年春季中国元首外交纪事",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7067793.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "97e60e63b4e403fdd2df373ffce520162a5d2239",
+      "title": "消费新脉动激扬发展新动能",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260506_4636258.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "37af42b8684170dbf5dc18bdf4dca140cf9472c7",
+      "title": "城市“充气堡”中藏着大工地 基坑气膜里算经济账环保账",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260506_4636266.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "3b9ae941278e982fed0021ecc12ac14bcae35e72",
+      "title": "二〇二六北京国际花展开展以来吸引33.8万人次打卡 “街区式花展”让花与城双向奔赴",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260506_4636268.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-05",
+      "fingerprint": "1ecd0ad9d69c477e918a60bf4eebd00432121c3a",
+      "title": "2025年12345热线受理市民诉求2580.2万件 诉求解决率和满意率分别达到97.3%和97.7% 较上年稳步提升",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260506_4636263.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
