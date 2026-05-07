@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-22",
-      "fingerprint": "34c36c8fc9ddbaa055de07ccab69154045e27d52",
-      "title": "中国大蒜做梦也没想到，竟被美国列为“国家安全威胁”",
-      "url": "https://news.cctv.com/2026/04/22/ARTIK0CJKirsfqMBGpOh9bYX260422.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "8b128a850377daa802163d2fac2339de6ef80552",
-      "title": "李强会见莫桑比克总统查波",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066530.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "3a992856a9150b48b7c431aa5da3ad3ba410da18",
-      "title": "一季度我国交通出行人数为177.7亿人次",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202604/content_7066640.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "b829d15aea0d121a52d5668fa8bcb1026177048d",
-      "title": "市政府召开常务会议 研究中央生态环境保护督察整改有关工作等事项 市长殷勇主持会议",
-      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202604/t20260423_4604859.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "87ca141c36fdf3d9a83b572d5068575626981bb7",
-      "title": "上海市人民政府关于贺青等同志职务任免的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260422/2c34c23aeed74f8ab1ce2d6b51a35bf8.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "294e1fbcc27be6835ccff35a2f2c9359b0f4b8cb",
-      "title": "连续12个季度经济累计增速超5% 2026年北京经济圆满实现“开门红”",
-      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202604/t20260423_4604853.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "0ed476309317df19066e1e6a7c0ea23d8db1b4df",
-      "title": "京津冀协同发展引领现代化首都都市圈建设提速",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260423_4604865.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "8984d7481e4bfe13c1e73454d0c4e76f3e3d358c",
-      "title": "书店、剧场、艺术中心接连落地 隆福寺文化版图持续丰盈 六百年隆福寺文脉新生",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260423_4604871.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "4f092ba19daf4f71e3463bea2037823b5ab44ef4",
-      "title": "人民锐评：该将“锁电”摆在明面上来说清楚了！",
-      "url": "https://opinion.people.com.cn/n1/2026/0422/c436867-40706661.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "4e6b77332f609be6fcd00038a4ababcd05ce4f95",
-      "title": "新华网评：屏幕再大，语音再灵，没有安全都是零",
-      "url": "https://www.news.cn/comments/20260422/1038513401c649e39f0bff86fe4517ba/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "aefd6b6e4352c078b04acae641ed4f1415153ea9",
-      "title": "建设完整社区的一道必答题",
-      "url": "https://www.news.cn/comments/20260422/9557fcf9ecd045c2990494fcac993251/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-22",
-      "fingerprint": "139420dcecd9f661674b5d167308f48498be7a67",
-      "title": "人形机器人“跑”出加速度",
-      "url": "https://www.news.cn/comments/20260422/6bc1ec8a09c94320944c8e00dc930251/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-23",
       "fingerprint": "6486891fd233366b16da0993bc93a2811aaefc37",
       "title": "身份证到期更换，社保卡需要换吗？",
@@ -831,6 +735,70 @@
       "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260506_4636263.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "b313232bb46c9f8fed33b9a72907977b1c215999",
+      "title": "“五一”假期盘点：外籍游客畅游中国",
+      "url": "https://news.cctv.com/2026/05/07/ARTITGW6Y8Y5NH9JkmEsdhjQ260507.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "071c69c5d50493e15cd7d9576fa50b7c80408ec6",
+      "title": "“五一”假期服务消费旺 商品消费稳",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7067840.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "fb997fc4093ab6661bf34007e7b390681321c4a6",
+      "title": "市政府召开常务会议 研究疏解整治促提升专项行动和污染防治工作进展等事项",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202605/t20260507_4639040.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "f1ca451d260af29d7f74a940de5fec09de805326",
+      "title": "北京落地新版经营主体登记规范 创新“1+2+3”举措惠企便民",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260507_4639061.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "978fffd566f7ff51b955ec85cf09893f4f2aeb59",
+      "title": "儿童青少年“五健”促进方案发布 中小学幼儿园将配卫生健康副校长",
+      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202605/t20260507_4639067.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "3103c6a4d98ca47768e5d9f5155d53d8c0739a7d",
+      "title": "以统一的政府行为尺度服务各类主体 北京36项举措破除经济循环顽瘴痼疾",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260507_4639059.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "35389fada7e0349c726312e88d66f3ed0121d1ee",
+      "title": "孩子惦心里，责任扛肩上",
+      "url": "https://opinion.people.com.cn/n1/2026/0506/c461529-40713863.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-06",
+      "fingerprint": "2cef68276b5d96b26116175b48f7490e24f83f81",
+      "title": "乡村市场更旺，城乡循环更畅",
+      "url": "https://www.news.cn/comments/20260506/59a84cb143b54817ad1bb1c241d4f43b/c.html",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
