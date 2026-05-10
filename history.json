@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-25",
-      "fingerprint": "250464b27ba8341b3fb378f39b6aafc7dfd9badf",
-      "title": "“五一”叠加春假 “加”出文旅消费新活力",
-      "url": "https://news.cctv.com/2026/04/26/ARTIrYHG0ySAMupVXUIeIWF2260425.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.70",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "e97247916511dfa33455cea14c840a355e2ef26f",
-      "title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电",
-      "url": "https://www.gov.cn/yaowen/liebiao/202604/content_7066967.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "5f82d2f4a36718ce5ed5f7e2d9232c4164f3e333",
-      "title": "纵深推进重点产业链群建设 京津冀三大产业集群将迈向世界级",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260425_4611502.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "21635d9ceb5e56110820bcb8be7ce3340f23f807",
-      "title": "深度融合历史名园文化底蕴与游客休闲需求 市属公园60余项活动迎“五一”",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260425_4611491.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "a04abd5dfb05a06c50043fcd44598fa60663d3e3",
-      "title": "携手共赴协同发展新征程",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260425_4611477.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "a41b4f09b3007b651d2996b05930a62f84eaa5d8",
-      "title": "丰富假日文旅供给 “五一”假期北京将推出2000余场特色活动",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260425_4611480.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-25",
-      "fingerprint": "72668147fc5654a5bb8035c69eecd1f76077a915",
-      "title": "新华网评：让互联网更好造福世界各国人民",
-      "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-26",
       "fingerprint": "414a415cad8a02a640415ae53a101ac70e9a9c50",
       "title": "全国春播进展顺利 意向面积总体稳定",
@@ -829,6 +773,54 @@
       "fingerprint": "6d24b465347ab97535cecdcaf418d4aff900770b",
       "title": "新华网视评｜网购遭遇看“地”下菜碟，太荒诞了",
       "url": "https://www.news.cn/comments/20260508/a0aec4354b8f4ab681da76c035be4afc/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "9300bb1f9b1a24417f9ad8f8b0477540fdfd9e19",
+      "title": "2026年医保药品目录调整工作方案公开征求意见",
+      "url": "https://news.cctv.com/2026/05/09/ARTI5aQ5Zs1RWOMjTw0sP7j4260509.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "b0658429aa4a864d89adf1536511e389969e3555",
+      "title": "郑栅洁主任赴上海人工智能实验室调研",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260509_1405123.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "af7946ed0e202393a8787019b745d98255c9aa69",
+      "title": "支持学前教育发展资金458亿元下达",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7068134.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "db4201742e6cfb5506fef3590b0ff2feaf4be9f9",
+      "title": "人民锐评：有必要将“不文明游客黑名单”全国联网",
+      "url": "https://opinion.people.com.cn/n1/2026/0508/c436867-40716143.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "7febdbaff6dbba2b1c31d638f458389ec015c94f",
+      "title": "让文化之光照亮高质量发展之路",
+      "url": "https://www.news.cn/comments/20260508/8ae54395eb1f45adbcc2d0da3609dd5f/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-09",
+      "fingerprint": "72668147fc5654a5bb8035c69eecd1f76077a915",
+      "title": "新华网评：让互联网更好造福世界各国人民",
+      "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
       "category": "comments",
       "source": "新华网评论"
     }
