@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-04-26",
-      "fingerprint": "414a415cad8a02a640415ae53a101ac70e9a9c50",
-      "title": "全国春播进展顺利 意向面积总体稳定",
-      "url": "https://news.cctv.com/2026/04/27/ARTIZsOF1WLgJA2tAcDa4pGe260427.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-26",
-      "fingerprint": "2e512a56e7fc2b3f1c97aed1297c0f26a381ef62",
-      "title": "每万人口拥有高价值发明专利居全国首位 本市有效发明专利量达74.8万件",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260427_4615513.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-26",
-      "fingerprint": "21a8fdd15810afc033effcd685ba8cde6b33407c",
-      "title": "北京首个“全民阅读活动周”圆满收官 让阅读成为触手可及的生活方式",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260427_4615498.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-26",
-      "fingerprint": "c887b5cd680e584fdad17305bd9d4a0a79876b9e",
-      "title": "“北京范儿”短视频大赛进校园 大学生用镜头记录北京科创故事",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260427_4615502.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-26",
-      "fingerprint": "bdeda2f06e7a30b857538936fa3910e4ab08a006",
-      "title": "2026北京书市绘就“全城共读”生动图景 四大集中展场接待读者超75万人次",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260427_4615510.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "e70949debf793efaf13dab8c539e29aa2857a882",
-      "title": "守护“新就业群体” 首个中央文件来了",
-      "url": "https://news.cctv.com/2026/04/28/ARTIOASyPbllDRdoUwSSSiKd260428.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "58d9b4a743630a2d8bae1ef0ba57b8f093534b54",
-      "title": "周海兵副主任会见格鲁吉亚经济与可持续发展部长克夫里维什维利",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260427_1404910.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "0e405d78db57104a46d193478285682a7136b63a",
-      "title": "周海兵副主任会见孟加拉国总理财政和计划顾问提图米尔",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202604/t20260427_1404911.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "e72de5ea638b512a0969b3ec2432941c80dbb56b",
-      "title": "获批国家标准立项 北京“多杆合一”将升级为“全国指南”",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260428_4619194.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "9570f93f95dba9adc4efe210c8291b6500a9cdd1",
-      "title": "北京口岸2026年出入境人次突破700万 同比增长13.3%",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202604/t20260428_4619207.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "2904091d670e8e885ec079363e09d4a74f459cb0",
-      "title": "一季度亦庄新城经济同比增长6.2% 首都实体经济压舱石地位进一步巩固",
-      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202604/t20260428_4619200.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "de1b8152e32b0a13d952b28b4258433de11f7f70",
-      "title": "2026年度中国青年五四奖章评选结果揭晓 北京多个个人和集体受表彰",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202604/t20260428_4619212.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "9198f1aca0382f3c1f069c2314ccea0a0704f90f",
-      "title": "人民锐评：正能量剧集岂能用低俗广告博眼球",
-      "url": "https://opinion.people.com.cn/n1/2026/0427/c436867-40709415.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "7123b781792c648117d468fd2280b981d3d08b97",
-      "title": "7年两轮中央生态环保督察守护祖国绿水青山",
-      "url": "http://www.xinhuanet.com/comments/donglu.htm",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-04-27",
-      "fingerprint": "4eff24972962408f2968fed6dac7e06ffd929751",
-      "title": "今日主角 | “普通老太太”一点儿也不普通",
-      "url": "http://www.xinhuanet.com/comments/fengwenya.htm",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-04-28",
       "fingerprint": "6e9d56d2bbee3bea1b88cf96ad8487faa0780d6e",
       "title": "我国新增两处世界地质公园",
@@ -821,6 +701,86 @@
       "fingerprint": "72668147fc5654a5bb8035c69eecd1f76077a915",
       "title": "新华网评：让互联网更好造福世界各国人民",
       "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "4dbc029ea59b853b805aac581d48cc7cabef1fea",
+      "title": "粤港澳大湾区“华龙一号”二期工程进入全面建设阶段",
+      "url": "https://news.cctv.com/2026/05/12/ARTIJ5xh5pgDog11BUd549pu260512.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "181abe78770a33f11a0539f3f41a8865e703cae0",
+      "title": "2025年度全国秋粮收购超3.38亿吨",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7068305.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "50a594dd35a4602840051a0e8a94a700a6815cbb",
+      "title": "王沪宁会见出席第三届海峡两岸中华文化峰会两岸文化界人士代表 两岸同胞要坚定中华文化自信 尹力参加",
+      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202605/t20260512_4646629.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "b259c7a4783149cd4f3328c93559a295aac39e57",
+      "title": "数据跨境流动便利化改革由“试点探索”升级到“全域治理” 数据出境负面清单措施惠及全市企业",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260512_4646632.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "1e10d1912aedf69e694edaf1aa00cd98adb7cb17",
+      "title": "尹力会见瑞士ABB集团全球董事会成员及高管团队",
+      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202605/t20260512_4646631.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "a8c025395d7fc0328fee8e410c95a09d4238527e",
+      "title": "580岁“流苏王”华盖如雪引客来",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260512_4646641.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "67bfb7385f2a92018b7c9ea18eae8c637eddb8de",
+      "title": "党建评：要心气，不要心浮气躁",
+      "url": "https://opinion.people.com.cn/n1/2026/0511/c441030-40717378.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "c6100c5c9733028e2b905e0ef017b0b03ce5ea38",
+      "title": "成长，不妨多些“举重若轻”",
+      "url": "https://www.news.cn/comments/20260511/d584874c814e465faeb9646ae908fe67/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "1a997534f5b284dd62829ac63c768866143baf86",
+      "title": "“花旅+”如何走向“四季常青”",
+      "url": "https://www.news.cn/comments/20260511/c1f3ae1eccf548d892f4a75afbd803a7/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-11",
+      "fingerprint": "d7977ce88a0224e9232bfcc4c98c4addf63ffafd",
+      "title": "“中国式安全感”为何圈粉世界",
+      "url": "https://www.news.cn/comments/20260511/1d27ff065b734665905a37079c1bb5d7/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
