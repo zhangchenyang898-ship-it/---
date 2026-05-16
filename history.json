@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-01",
-      "fingerprint": "7999e0034201052d6ad8be601cdaab56c1dda3ce",
-      "title": "新职业 新机遇 新职业增动能 如何培育壮大？",
-      "url": "https://news.cctv.com/2026/05/02/ARTIbqQZ0AKGoDIxlGu9oMpD260502.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-01",
-      "fingerprint": "09d3d244358252e5bb792be3a7c8c1ab8ecdf59e",
-      "title": "北京市全民国防教育专项工作机制第一次全体会议召开",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260501_4633370.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-01",
-      "fingerprint": "13607eeda5498b29970c09a2997b83133280b710",
-      "title": "全市各大商圈、文旅景区、餐饮企业联动 近300项促消费活动乐享“五一”",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260501_4633368.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-01",
-      "fingerprint": "153b33e1f2679cdd7993d69cdb1ca3e56cd06235",
-      "title": "《北京城市副中心条例》5月1日起施行 城市副中心迈入法治化高质量发展新阶段",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202605/t20260501_4633367.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-01",
-      "fingerprint": "6690211cb39d76e5c652cb7d7cc839ed17139b8b",
-      "title": "“五一”北京迎赛事“超级假日” 多场精品赛事与潮流运动活动遍布全城",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260501_4633369.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-01",
-      "fingerprint": "59d9c5db8c3019f93038e779fdf022545c5c34b8",
-      "title": "壹时评：以劳动之姿，赴时代之约",
-      "url": "https://opinion.people.com.cn/n1/2026/0501/c223228-40712455.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-05-02",
       "fingerprint": "fd196ebcb5a5e4c7f0ce38ad3afcd6919612b9a7",
       "title": "特色文旅活动点燃“五一”假期",
@@ -791,6 +743,86 @@
       "url": "https://www.news.cn/comments/20260514/83b4f41f600142eb96e84d65369136de/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "562d40a2d88cfc753a3f6fd3fd433ec6b9cf94c3",
+      "title": "感知中国活力：西南麦区迎来大面积收获",
+      "url": "https://news.cctv.com/2026/05/16/ARTIJrg2CzWLazyJLclTykCA260515.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "41b3e83f773c926f6e8d652daca1681f78ff3edc",
+      "title": "习近平同美国总统特朗普在中南海小范围会晤",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7068921.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "a4d32f0c30d5dcb99ca53a90f8c508dcf87bd1d4",
+      "title": "2026年一季度我国数字产业收入同比增长12.9%",
+      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7068806.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "914037b7344b269d260db9080849a6087d869f7f",
+      "title": "市政府召开常务会议 研究一季度营商环境监测评价报告等事项 市长殷勇主持会议",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202605/t20260515_4651668.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "75008a9e1fe368469bda495f8a701d87efb4a3e7",
+      "title": "黄浦区人民政府办公室关于印发《黄浦区全面深化成本预算绩效管理改革工作方案（2026—2028年）》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260515/cc10d6b7c5bd4b7dbbf9672523d665ca.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "8809f28d9acfd2db0663a750b64c706da0337364",
+      "title": "市政府新闻发布会介绍并解读《深化“一网通办”改革 打造“高效办成一件事”最佳体验地行动方案》等有关内容",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260515/270fa9966d644d3b9f1afbcac8aaa759.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "47e8499b5fdf7a8c2bc1dc7ae7f9b0f3f49d5bc9",
+      "title": "在文化里相遇 在潮流里尽兴 首届中国新文创市集5月15日启幕",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260515_4651701.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "cd017439cca39b8b87e6da05344a98899e6601da",
+      "title": "国际品牌“引进来” 中国好物“走出去” 北京商圈越来越有国际范儿",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260515_4651690.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "3985fb705737110817c9092087c8b4bf1f7e99f6",
+      "title": "北京四大平台便利服务来京外籍人士 用户诉求线上直达“接诉即办”",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260515_4651704.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-15",
+      "fingerprint": "0d227eb85269dec3ba895514b9d1c88700e44e2c",
+      "title": "上海市人民政府办公厅关于印发《上海市深化“一网通办”改革 打造“高效办成一件事”最佳体验地行动方案》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260515/b393a352da314b92b42730755baf2d25.html",
+      "category": "regional",
+      "source": "上海市人民政府"
     }
   ]
 }
