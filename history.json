@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-02",
-      "fingerprint": "fd196ebcb5a5e4c7f0ce38ad3afcd6919612b9a7",
-      "title": "特色文旅活动点燃“五一”假期",
-      "url": "https://news.cctv.com/2026/05/03/ARTIKDdevUPQYm9omRCJpNNP260503.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-02",
-      "fingerprint": "1110fd18694d60a50021bb4b237ac1f345586506",
-      "title": "新修订的《北京市非机动车管理条例》实施首日 全市主要路口设置宣传提示岗 骑乘电动自行车必须佩戴安全头盔",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634059.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-02",
-      "fingerprint": "972ae3b6f95bd97b1513b8b158cef2631fe2d14a",
-      "title": "推动京津冀文化协同发展 首图“京城有戏”系列活动启幕",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634060.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-02",
-      "fingerprint": "fa453ae15b968ae0e2f6fea3c307fffc13eb03de",
-      "title": "假期首日市属公园迎客超五十万人次 天坛公园、颐和园、景山公园客流排前三",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260502_4634061.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-02",
-      "fingerprint": "9fbbb565bd6f609ca9075d64e17e02581e1668d8",
-      "title": "2025年年报披露收官 北交所上市公司盈利面超八成",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260502_4634063.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-05-03",
       "fingerprint": "34c44c5e24743dc7b0b64b2912f3a9cd72e9df05",
       "title": "“五一”假期 文化游持续火热",
@@ -823,6 +783,62 @@
       "url": "https://www.shanghai.gov.cn/nw12344/20260515/b393a352da314b92b42730755baf2d25.html",
       "category": "regional",
       "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "92c5dc331dc6ebbb6dc7a65632553cb87a81588c",
+      "title": "一次开药管仨月！慢性病长期处方新政落地",
+      "url": "https://news.cctv.com/2026/05/16/ARTIhjPjaNGCAEUxv7KerM6N260516.shtml?spm=C94212.PBZrLs0D62ld.EKoevbmLqVHC.15",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "17c7b30588cf476302315ce425061ce332d6610f",
+      "title": "“需要共同书写的时代答卷”——习近平主席同特朗普总统会晤侧记",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7068870.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "599971e7429c7ef2ac5ee04cb1f2b06e96be7dca",
+      "title": "微镜头·中美元首在北京举行会谈",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069056.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "fdc54df8b6d59209a8847b914da56f25ff40c38e",
+      "title": "怀柔科学城“大国重器”打造科创策源地 本市重大科技基础设施平台密度全国居首",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260516_4653693.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "4c6ec24f0ccffb38bd5dc4c11150e83defdf6acc",
+      "title": "国内首个开源开放AI智能体共性基础设施发布 破解当前智能体产业四大痛点",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260516_4653692.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "829a90a9e605c3caca25f8eee0fcaead15fd9eaa",
+      "title": "五月京城上演文创嘉年华 持续10天 全程免费",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260516_4653694.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-16",
+      "fingerprint": "af332f6276c3f836a6ec4a5fcfe101031939f536",
+      "title": "一批世界500强医药巨头纷纷入驻国际医药创新公园 “北京服务”让外企投下“信任票”",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260516_4653691.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
