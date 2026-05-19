@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-04",
-      "fingerprint": "40d0b1832f30ca63562df9dd0d6b286435e1b088",
-      "title": "我国重大油气基础设施项目建设加速",
-      "url": "https://news.cctv.com/2026/05/05/ARTIKNiMyz5l3MvLEIjwRBJj260505.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "27afb9f57ce512cfa722747d0c518cb85d12e034",
-      "title": "开局起步“十五五”系列主题新闻发布会",
-      "url": "https://www.news.cn/zt/swwxlztfbh/index.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "3a87ded550e3f9344238881e751eac97a7724acd",
-      "title": "“清清黄河”行进式报道",
-      "url": "https://www.news.cn/specials.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "05db1581f9e681535a2cca555512d38f02cd57f7",
-      "title": "习近平对湖南长沙浏阳市一烟花厂爆炸事故作出重要指示",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7067797.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "620c659b727d463e704f0a7726b9bc5293be7259",
-      "title": "全国铁路迎来假期返程客流高峰",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7067786.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "11c7f2fa4f21ae8760b1df101a9877d9fa511f4a",
-      "title": "2026年上海市发展改革决策咨询研究课题公开选聘公告",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260505/0d5c0b707b95410a91effdb296585437.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "07d613a0bcd7ba6aa0627e9cabac8deac96d84c7",
-      "title": "自主品牌拔节生长 前沿技术密集突破 行业与消费者双向聚焦 2026北京车展不止规模之最",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260504_4635150.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "e3eadb05d91f81ea95d1d058845fff40c9d57902",
-      "title": "城市副中心京华福满园迎客 打造亲近自然、悦览美景、适宜健身的活动空间",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260504_4635149.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "da9c15c775b672b976d5a452f7b5d5e3ea2b3eb8",
-      "title": "“五一”前三天北京接待游客超1100万人次 市属公园游客量超200万人次 文旅产品供给丰富 全市消费活力迸发",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260504_4635147.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "94a23c88a420c6a4ba1d19f930c2aa8366602174",
-      "title": "30名青年荣获第三十六届北京青年五四奖章",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260504_4635148.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-04",
-      "fingerprint": "be48848c4e0e6a29844740ecc400602e6b580a88",
-      "title": "人民锐评：青年的“关键小事”都是城市的“民生大事”",
-      "url": "https://opinion.people.com.cn/n1/2026/0504/c1003-40713418.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-05-05",
       "fingerprint": "fefd7185a7077cd24eb683890bb25ddc4c76b450",
       "title": "你要为谁点个赞？点赞每一位努力的人",
@@ -869,6 +781,110 @@
       "fingerprint": "7123b781792c648117d468fd2280b981d3d08b97",
       "title": "7年两轮中央生态环保督察守护祖国绿水青山",
       "url": "http://www.xinhuanet.com/comments/donglu.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "33fc3bdad8d564836fda9b73d7bf52fb7224d212",
+      "title": "实景演绎、数字赋能、文创开发：让文物活起来",
+      "url": "https://news.cctv.com/2026/05/19/ARTIWUB3HrydrOIMzXoFgVAU260518.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "27afb9f57ce512cfa722747d0c518cb85d12e034",
+      "title": "开局起步“十五五”系列主题新闻发布会",
+      "url": "https://www.news.cn/zt/swwxlztfbh/index.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "3a87ded550e3f9344238881e751eac97a7724acd",
+      "title": "“清清黄河”行进式报道",
+      "url": "https://www.news.cn/specials.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "4ca997c1d9f8d3726112af7662edc45174627186",
+      "title": "郑栅洁主任会见波音公司总裁兼首席执行官奥特伯格",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260518_1405245.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "cdfe53802de2146e37995fcfd6dcf4c2d152a4dc",
+      "title": "李春临副主任会见通用电气航空航天集团董事长兼首席执行官卡尔普",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260518_1405244.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "ec69369010b8578bda1ec49e567d3691355d3f4c",
+      "title": "去年全国离境退税销售额同比增近1倍 北京实现“购物即退税 全城任意退”",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656670.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "9f90dce725f0c738465bb73e85eac4d66880fa38",
+      "title": "“开局起步‘十五五’”上海专场新闻发布会举行，龚正作主题发布并答记者问",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260518/21e522304ab4498e97d921b03fa4db7a.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "7eb1c8b169bd5d445be134d48484c796f7c95561",
+      "title": "本市推出22项举措优化人才服务与劳动者权益保障 鼓励“一人公司”等创业新模式",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656664.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "396242681e3839981453093e74b4faf747791b44",
+      "title": "一批科学智能成果加速落地 本市搭建领跑智能科研平台体系",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656634.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "b43569bdc276e96a01d9e78f4bddd1fec51fa594",
+      "title": "一场雨下了常年同期4倍的量 南郊观象台刷新最早暴雨日纪录",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260519_4656667.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "4d1cf17deb383275f7eb0fc9f545e1d7851dd924",
+      "title": "以相向而行的行动落实好重要共识",
+      "url": "http://www.news.cn/comments/20260518/4463b75ca67f438f9694df1f8ff4ac89/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "82faf7f180825704ad6cf4cd46f85dd62ca8695e",
+      "title": "任仲平：立党为公、为民造福、科学决策、真抓实干",
+      "url": "https://opinion.people.com.cn/n1/2026/0518/c461529-40721407.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-18",
+      "fingerprint": "5a4a9276312bc87c7b46f3ee5c62bf1f683cd4a2",
+      "title": "新华网视评丨“种花家”的绿化，硬核又浪漫",
+      "url": "https://www.news.cn/comments/20260518/63133d95197548019ead18978c590095/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
