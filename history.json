@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-06",
-      "fingerprint": "b313232bb46c9f8fed33b9a72907977b1c215999",
-      "title": "“五一”假期盘点：外籍游客畅游中国",
-      "url": "https://news.cctv.com/2026/05/07/ARTITGW6Y8Y5NH9JkmEsdhjQ260507.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "071c69c5d50493e15cd7d9576fa50b7c80408ec6",
-      "title": "“五一”假期服务消费旺 商品消费稳",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7067840.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "fb997fc4093ab6661bf34007e7b390681321c4a6",
-      "title": "市政府召开常务会议 研究疏解整治促提升专项行动和污染防治工作进展等事项",
-      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202605/t20260507_4639040.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "f1ca451d260af29d7f74a940de5fec09de805326",
-      "title": "北京落地新版经营主体登记规范 创新“1+2+3”举措惠企便民",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260507_4639061.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "978fffd566f7ff51b955ec85cf09893f4f2aeb59",
-      "title": "儿童青少年“五健”促进方案发布 中小学幼儿园将配卫生健康副校长",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202605/t20260507_4639067.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "3103c6a4d98ca47768e5d9f5155d53d8c0739a7d",
-      "title": "以统一的政府行为尺度服务各类主体 北京36项举措破除经济循环顽瘴痼疾",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260507_4639059.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "35389fada7e0349c726312e88d66f3ed0121d1ee",
-      "title": "孩子惦心里，责任扛肩上",
-      "url": "https://opinion.people.com.cn/n1/2026/0506/c461529-40713863.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-06",
-      "fingerprint": "2cef68276b5d96b26116175b48f7490e24f83f81",
-      "title": "乡村市场更旺，城乡循环更畅",
-      "url": "https://www.news.cn/comments/20260506/59a84cb143b54817ad1bb1c241d4f43b/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-05-07",
       "fingerprint": "2d131a437d220bd79b2c6c4e7a71f01cd0e2bbf9",
       "title": "多地楼市新政实施 带热房地产市场",
@@ -927,6 +863,54 @@
       "url": "https://www.news.cn/comments/20260519/a741fd5cba744853937521f12c23c5e4/c.html",
       "category": "comments",
       "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "4a67e5f48b78771dd6238cf5971b7679e1aec9f3",
+      "title": "1—4月 全国一般公共预算收入同比增长3.5%",
+      "url": "https://news.cctv.com/2026/05/21/ARTIan6xC5PGRsaqJwPHU0aK260521.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "902d9cca1ccd1852000ecea0a429733c8715cef6",
+      "title": "郑栅洁主任主持召开民营企业座谈会 围绕当前经济形势及宏观政策落实情况听取意见建议",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260520_1405329.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "09b891fdcf7a8d2d774206b78d616374dd92dd18",
+      "title": "习近平同俄罗斯总统普京共同会见记者",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069677.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "611593efc41e70d7bb10edf7d91043ad1c94ec17",
+      "title": "习近平同俄罗斯总统普京会谈",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069661.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "1317182266ca69268f3b7816c6bb05348bd3f65e",
+      "title": "共同出席“中俄教育年”开幕式并致辞",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069697.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-20",
+      "fingerprint": "1d2eaf11c8b54409a995381f35acba5d434b7bbd",
+      "title": "人民锐评：建而不用，民生工程岂能成“盆景”！",
+      "url": "https://opinion.people.com.cn/n1/2026/0521/c436867-40724248.html",
+      "category": "comments",
+      "source": "人民网评论"
     }
   ]
 }
