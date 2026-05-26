@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-11",
-      "fingerprint": "4dbc029ea59b853b805aac581d48cc7cabef1fea",
-      "title": "粤港澳大湾区“华龙一号”二期工程进入全面建设阶段",
-      "url": "https://news.cctv.com/2026/05/12/ARTIJ5xh5pgDog11BUd549pu260512.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "181abe78770a33f11a0539f3f41a8865e703cae0",
-      "title": "2025年度全国秋粮收购超3.38亿吨",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7068305.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "50a594dd35a4602840051a0e8a94a700a6815cbb",
-      "title": "王沪宁会见出席第三届海峡两岸中华文化峰会两岸文化界人士代表 两岸同胞要坚定中华文化自信 尹力参加",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202605/t20260512_4646629.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "b259c7a4783149cd4f3328c93559a295aac39e57",
-      "title": "数据跨境流动便利化改革由“试点探索”升级到“全域治理” 数据出境负面清单措施惠及全市企业",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260512_4646632.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "1e10d1912aedf69e694edaf1aa00cd98adb7cb17",
-      "title": "尹力会见瑞士ABB集团全球董事会成员及高管团队",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202605/t20260512_4646631.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "a8c025395d7fc0328fee8e410c95a09d4238527e",
-      "title": "580岁“流苏王”华盖如雪引客来",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260512_4646641.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "67bfb7385f2a92018b7c9ea18eae8c637eddb8de",
-      "title": "党建评：要心气，不要心浮气躁",
-      "url": "https://opinion.people.com.cn/n1/2026/0511/c441030-40717378.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "c6100c5c9733028e2b905e0ef017b0b03ce5ea38",
-      "title": "成长，不妨多些“举重若轻”",
-      "url": "https://www.news.cn/comments/20260511/d584874c814e465faeb9646ae908fe67/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "1a997534f5b284dd62829ac63c768866143baf86",
-      "title": "“花旅+”如何走向“四季常青”",
-      "url": "https://www.news.cn/comments/20260511/c1f3ae1eccf548d892f4a75afbd803a7/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-11",
-      "fingerprint": "d7977ce88a0224e9232bfcc4c98c4addf63ffafd",
-      "title": "“中国式安全感”为何圈粉世界",
-      "url": "https://www.news.cn/comments/20260511/1d27ff065b734665905a37079c1bb5d7/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-05-13",
       "fingerprint": "61e8d68a645c2f1799032ed380691eea5d29ffcf",
       "title": "乘着游轮看长江：岸线焕新 生态向好",
@@ -967,6 +887,70 @@
       "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260525_4663843.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "df1f432b1d1f3259f569ab5b3ef3184032b77d0a",
+      "title": "我国发布伦理指引 规范人体基因数据研究",
+      "url": "https://news.cctv.com/2026/05/25/ARTI818kUWzjcXJ8yO9DihqE260525.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "314a120759647512970eea7a85bb7cd4ea49574b",
+      "title": "习近平同塞尔维亚总统武契奇会谈",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070179.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "542e015cafb0b10caf33e09572c6904a7cf02a8b",
+      "title": "习近平为武契奇举行“友谊勋章”颁授仪式",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070194.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "3f546cc34d033e1ed30a3bd90a566507a166599b",
+      "title": "关于共同推动落实四大全球倡议的联合声明",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070184.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "6911aae2acb853c5e0802bd50058101b8e579ac3",
+      "title": "中塞关于持续推进构建新时代中塞命运共同体的联合声明",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070181.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "652ecda0a52e9430c5d182a827d8d7e3ee294448",
+      "title": "人民锐评：中考体测别迷信“神药”",
+      "url": "https://opinion.people.com.cn/n1/2026/0525/c436867-40726630.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "26bb242311a440bba7ae4629e2846cab43bac89f",
+      "title": "新华网视评丨以敬畏之心守护科学诚信",
+      "url": "https://www.news.cn/comments/20260525/9de9b1a083ac4db384a3b30a93e28d55/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-05-25",
+      "fingerprint": "0599a2f4bdff6aa3bd16a7dab8cb7977bf0204f5",
+      "title": "安全不容失守 责任重于泰山",
+      "url": "http://www.news.cn/comments/20260524/4af7566c5e8245ce894233d421baa02b/c.html",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
