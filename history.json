@@ -1,198 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-18",
-      "fingerprint": "33fc3bdad8d564836fda9b73d7bf52fb7224d212",
-      "title": "实景演绎、数字赋能、文创开发：让文物活起来",
-      "url": "https://news.cctv.com/2026/05/19/ARTIWUB3HrydrOIMzXoFgVAU260518.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "27afb9f57ce512cfa722747d0c518cb85d12e034",
-      "title": "开局起步“十五五”系列主题新闻发布会",
-      "url": "https://www.news.cn/zt/swwxlztfbh/index.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "3a87ded550e3f9344238881e751eac97a7724acd",
-      "title": "“清清黄河”行进式报道",
-      "url": "https://www.news.cn/specials.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "4ca997c1d9f8d3726112af7662edc45174627186",
-      "title": "郑栅洁主任会见波音公司总裁兼首席执行官奥特伯格",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260518_1405245.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "cdfe53802de2146e37995fcfd6dcf4c2d152a4dc",
-      "title": "李春临副主任会见通用电气航空航天集团董事长兼首席执行官卡尔普",
-      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202605/t20260518_1405244.html",
-      "category": "policy",
-      "source": "国家发展改革委"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "ec69369010b8578bda1ec49e567d3691355d3f4c",
-      "title": "去年全国离境退税销售额同比增近1倍 北京实现“购物即退税 全城任意退”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656670.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "9f90dce725f0c738465bb73e85eac4d66880fa38",
-      "title": "“开局起步‘十五五’”上海专场新闻发布会举行，龚正作主题发布并答记者问",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260518/21e522304ab4498e97d921b03fa4db7a.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "7eb1c8b169bd5d445be134d48484c796f7c95561",
-      "title": "本市推出22项举措优化人才服务与劳动者权益保障 鼓励“一人公司”等创业新模式",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656664.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "396242681e3839981453093e74b4faf747791b44",
-      "title": "一批科学智能成果加速落地 本市搭建领跑智能科研平台体系",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260519_4656634.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "b43569bdc276e96a01d9e78f4bddd1fec51fa594",
-      "title": "一场雨下了常年同期4倍的量 南郊观象台刷新最早暴雨日纪录",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260519_4656667.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "4d1cf17deb383275f7eb0fc9f545e1d7851dd924",
-      "title": "以相向而行的行动落实好重要共识",
-      "url": "http://www.news.cn/comments/20260518/4463b75ca67f438f9694df1f8ff4ac89/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "82faf7f180825704ad6cf4cd46f85dd62ca8695e",
-      "title": "任仲平：立党为公、为民造福、科学决策、真抓实干",
-      "url": "https://opinion.people.com.cn/n1/2026/0518/c461529-40721407.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-18",
-      "fingerprint": "5a4a9276312bc87c7b46f3ee5c62bf1f683cd4a2",
-      "title": "新华网视评丨“种花家”的绿化，硬核又浪漫",
-      "url": "https://www.news.cn/comments/20260518/63133d95197548019ead18978c590095/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "082a4bd7b76ce25c42a792ee0fa6259bf08809b2",
-      "title": "开启夏收，收官春播——在希望的田野上",
-      "url": "https://news.cctv.com/2026/05/20/ARTInZuKLr8XLPLUrm5hExVs260519.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "4733f483f5ba7ba46b076c9a6942f40e727dd607",
-      "title": "习近平文化思想引领旅游强国建设",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7069398.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "0d385cd2d4005ec6f3b1c7b5bc5bddd3fba61471",
-      "title": "经济数据速览：7组数字看1—4月份中国经济",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7069278.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "1d4e65906a400a017bced378e8e95223efe15d86",
-      "title": "贯通成果转化全链条服务体系 北京市推动基础研究成果加速走向市场",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260520_4658232.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "302d1cecdc03169b3a267908a34b681f0b906664",
-      "title": "浦东新区人民政府办公室关于印发《浦东新区全面深化成本预算绩效管理改革实施方案（2026-2028年）》的通知",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260519/99d54805611548be9306a449e9bf85ee.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "9f83bbf09290db5f1620a2785b942b1433e16362",
-      "title": "市政府2026年安排25项立法项目 包括博物馆条例、民营经济促进条例、人工智能产业发展条例等",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260520_4658234.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "c3f02613cdc32a3faaa12ec9691605b470808595",
-      "title": "前四月北京经济运行稳中有进 全市规模以上工业增加值同比增长4.2%",
-      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202605/t20260520_4658233.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "a10a4eaa90d77bfdaf04922dc49a7aa248d16863",
-      "title": "从带娃到照护老人 干活不再只凭经验 “北京家政”服务标准化",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260520_4658235.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "d61ab7b2397aeb8f324bc731cb6d525e6ce87bef",
-      "title": "人民锐评：以监管“无感”厚植民企发展安全感",
-      "url": "https://opinion.people.com.cn/n1/2026/0519/c436867-40723151.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "4509c818069435220b8379483124af843a4a97de",
-      "title": "做优“在场感” 做强新经济",
-      "url": "https://www.news.cn/comments/20260519/e18e1a6bbbd742418d023bcfbf8b36e5/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-19",
-      "fingerprint": "bfcf9e478da8efbd7c0a748dae86eb9b9c31f162",
-      "title": "“咱农民也能把自己活成诗”",
-      "url": "https://www.news.cn/comments/20260519/a741fd5cba744853937521f12c23c5e4/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-05-20",
       "fingerprint": "4a67e5f48b78771dd6238cf5971b7679e1aec9f3",
       "title": "1—4月 全国一般公共预算收入同比增长3.5%",
@@ -951,6 +759,150 @@
       "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260531_4676896.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "d1433556eab3718a761161b4508f45d9bd4a5668",
+      "title": "奔跑的“三夏”：从“汗水农业”到“智慧农业”",
+      "url": "https://news.cctv.com/2026/06/03/ARTIYK40yMoCrdDfsyuQtbw6260602.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "27afb9f57ce512cfa722747d0c518cb85d12e034",
+      "title": "开局起步“十五五”系列主题新闻发布会",
+      "url": "https://www.news.cn/zt/swwxlztfbh/index.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "3a87ded550e3f9344238881e751eac97a7724acd",
+      "title": "“清清黄河”行进式报道",
+      "url": "https://www.news.cn/specials.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "daeabf12229f7bc5f83250236f4bc4561f0d1cfb",
+      "title": "司法部、国家发展改革委、商务部负责人就《国务院关于对外投资的规定》答记者问",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260601_1405611.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "f8b11cec2d373d601d5fb73063551524e44b53f5",
+      "title": "习近平：前瞻布局和发展未来产业",
+      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070720.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "c93525ba80103f14324047243d5fb7625e547522",
+      "title": "习近平文化思想引领文化传承发展开创新局面",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7070850.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "5f8976354f8fb35416fa64e7c266e57c18fb6e48",
+      "title": "国家发展改革委与塞尔维亚有关部门签署合作文件",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260601_1405632.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "ccae82123fef56c67b6bfa159f3a95478a8876e8",
+      "title": "市政府新闻发布会介绍《上海市生活垃圾分类提质增效三年行动计划（2026—2028年）》有关情况",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260602/815ebb15ad6d49a8a3a0eb54b5c1e869.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "fb653e22b3e3fe974a02b6118fe4bcd3aa8a23d3",
+      "title": "尹力到中小学和幼儿园调研时强调 树立“健康第一”教育理念用心用情促进学生全面发展",
+      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202606/t20260602_4681450.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "d6360241e92f334e500550aa6c0c8a35393aad46",
+      "title": "北京地铁快线+1！共设5站 将与3号线、首都机场线换乘",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260602_4681873.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "fb0f9d0be28219b626ee49509641e7a2583d727f",
+      "title": "上海市人民政府办公厅印发《关于深化上海全球资产管理中心建设的若干意见》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260602/75aaea49da7a4ca3b884e2b301308c15.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "f72b611991595067a1aa875a6fb3ff0a840aae0a",
+      "title": "6月1日起正式入汛 专家解读天气预警要点 快速读懂预警 做好相应防范",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260602_4681453.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "2cbe25babafb47baee7b26afc464e00bda3afa3e",
+      "title": "2026年服贸会迎来倒计时100天 金秋九月相约北京相聚首钢",
+      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202606/t20260602_4681451.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "c444369775e43802fa2d97e2e7349aed1fcaa4be",
+      "title": "上海市人民政府关于印发《上海市气象灾害预警信号发布与传播规定》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260601/5fd69c1c43f24ecbb3a7387f62b12194.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "532a0b04c39c50d2db3759d842792f433b96ab96",
+      "title": "人民锐评：不写论文也能毕业？多元评价值得探索",
+      "url": "https://opinion.people.com.cn/n1/2026/0602/c436867-40732447.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "74a07e4784ccc742205e092492a6bfcd8565c6bd",
+      "title": "新华网评：自己机不离手，孩子岂能放下手机",
+      "url": "https://www.news.cn/comments/20260602/5e68f0db1b27429c8894f56543c2b74a/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "decce1818daa44d64a3996c836cb984ce1ac614e",
+      "title": "新华网评：小心“速成”神话给孩子带来伤害",
+      "url": "https://www.news.cn/comments/20260601/4526f31d13284931b24b65b651b9c558/c.html",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-06-02",
+      "fingerprint": "72668147fc5654a5bb8035c69eecd1f76077a915",
+      "title": "新华网评：让互联网更好造福世界各国人民",
+      "url": "http://www.xinhuanet.com/comments/lijieqiong.htm",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
