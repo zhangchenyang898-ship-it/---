@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-23",
-      "fingerprint": "e045605cfe9279044f1621176a9372e87688c23f",
-      "title": "我国万米深海材料腐蚀试验再破纪录",
-      "url": "https://news.cctv.com/2026/05/24/ARTIoGtqjHpMQWp0iWT7affw260524.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "3b0d9a406b41e4e5f68c5c2f912c380f349dc89e",
-      "title": "习近平对山西长治市沁源县一煤矿瓦斯爆炸事故作出重要指示",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070013.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "3fa195e9e2cb33959989890203a91ab5ac2f3395",
-      "title": "落实总书记重要指示 维护人民群众生命财产安全",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070074.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "e14675bc5b278794ac5071e834f57aa466045fb9",
-      "title": "潮白河国家森林公园先行启动区2026年建成 地铁22号线年底开通 京津冀三地协同发展迈上新台阶",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260523_4663543.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "5819f0e37d323a8ad7bd7d3a281105373cf6f5c7",
-      "title": "服务在先普法先行 解决“家门口”的治理难题 社区里多了一抹“城管蓝”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260523_4663544.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "d3e146ff231c1d6ae5ac771bafd5e2556ebdc0ab",
-      "title": "各地民俗风情闪耀首届中国新文创市集 朝阳公园一站逛遍文创宝藏",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260523_4663548.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-23",
-      "fingerprint": "1a5a44f745bb585e9a117f075dc6b4152a521b49",
-      "title": "前沿科技成果亮相文博会 北京展现数智时代的日常新图景",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260523_4663546.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
       "report_date": "2026-05-24",
       "fingerprint": "d82a2431eca6a054ed57a5286bcf8456f55fcc51",
       "title": "生活垃圾、工业固废循环再利用 “无废城市”这样建成",
@@ -821,6 +765,54 @@
       "fingerprint": "4eff24972962408f2968fed6dac7e06ffd929751",
       "title": "今日主角 | “普通老太太”一点儿也不普通",
       "url": "http://www.xinhuanet.com/comments/fengwenya.htm",
+      "category": "comments",
+      "source": "新华网评论"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "fedc745daecb43ccd78fe1af6b5a56274e61f755",
+      "title": "城市更新 桥下“新”风景",
+      "url": "https://news.cctv.com/2026/06/07/ARTIxtOYr3GUg2MNZHmgxsbU260607.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "597c54d265287717e2cdd7ce54b1a9c3ef3b1513",
+      "title": "北京市委常委会召开会议 坚决拥护党中央决定 以更高标准、更实举措推进全面从严治党",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/sw/202606/t20260606_4689347.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "b8ce609b793b59917ed957fce791168858744012",
+      "title": "新建10家儿童友好医院 “京通”上线健康智能专区 更高水平医疗卫生服务行动计划发布",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202606/t20260606_4688952.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "17221bbbf07f79678a545a482a67bcfd551e1e01",
+      "title": "全力做好高考准备工作 确保高考安全平稳有序进行",
+      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202606/t20260606_4688951.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "5ef5e29bfce4f9dda3283dfe5475c3858ed4118a",
+      "title": "2026北京入境旅游发展大会举行 十大入境旅游体验新场景迎接全球游客",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202606/t20260606_4688953.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-06",
+      "fingerprint": "b51b6e1d8f964c274a5a387a7e4ad1632ff4eca1",
+      "title": "新华网视评｜“实践成果博士”释放学术评价新信号",
+      "url": "https://www.news.cn/comments/20260606/360155a2d07a432ebd3a6bec3309cf4e/c.html",
       "category": "comments",
       "source": "新华网评论"
     }
