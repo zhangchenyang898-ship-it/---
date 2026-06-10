@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-26",
-      "fingerprint": "0519c5d42d2bd714e75cef00f3c2faaf5f913d02",
-      "title": "住建部：未落户常住人口将纳入公租房保障范围",
-      "url": "https://news.cctv.com/2026/05/27/ARTIBU0NBi2QuhbeNjLCP7ia260526.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "5f0ea7381f3447b6790f2b0b476f971ce29cabf4",
-      "title": "习近平会见巴基斯坦总理夏巴兹",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070158.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "37d972c5488ab8b856733a978db75907a2eebaf6",
-      "title": "截至2026年4月底，我国累计发电装机容量39.9亿千瓦",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070224.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "1ee15fc4b3a6fdafff31af6944444f5104cdf5cd",
-      "title": "破解拍摄难题 拉动“视听+文旅”双向奔赴",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260527_4667694.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "c3f77b8238adf7ed526f3039612704b28a482e18",
-      "title": "殷勇会见环球银行金融电信协会全球首席执行官",
-      "url": "https://www.beijing.gov.cn/gongkai/ldhd/202605/t20260527_4667692.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "8f4e457d75733afb3e1efb76833e968641d6e792",
-      "title": "前4月本市财政收入完成2689.1亿元 科技支出同比保持两位数增长",
-      "url": "https://www.beijing.gov.cn/gongkai/shuju/sjjd/202605/t20260527_4667695.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "9b5318f69fad73d36aacac5f1b9b80cd54091f21",
-      "title": "出台一系列扶持政策吸引青年人才来京创新创业扎根发展 本市打造“10号线人才活力环”",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260527_4667700.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "a3548e32bdc291e6123e32b6975b02d2fe97afc3",
-      "title": "人民锐评：铺天盖地的“碳水脸”，彻头彻尾的伪概念",
-      "url": "https://opinion.people.com.cn/n1/2026/0525/c436867-40726882.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-26",
-      "fingerprint": "1765bdfc71f9e090e7022f392511cd436ab09cdd",
-      "title": "新华网视评丨论文署名岂能沦为“唐僧肉”",
-      "url": "https://www.news.cn/comments/20260526/ec1d681452d04712ac2018999ccaa8a2/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-05-27",
       "fingerprint": "3a2fd85c6a2ca00c3cfd043f7959ca6aef89e103",
       "title": "绿电+智算 新技术新模式推动AI与能源“双向奔赴”",
@@ -823,6 +751,78 @@
       "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202606/t20260609_4692059.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "28cd7bc89ff6c5051b3829d9ded3fa7b3d787f12",
+      "title": "多项先行指标显示我国经济运行稳中向好",
+      "url": "https://news.cctv.com/2026/06/10/ARTIi0EnMj9uYF8jzTqSjZaQ260610.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "8308cd5ca9ae6b483ba4d8195344a4a4c35a2486",
+      "title": "习近平参访朝鲜劳动党中央干部学校",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071564.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "83ea035ce4d4fa39e8ca88ba0008d678cad72617",
+      "title": "习近平结束对朝鲜国事访问回到北京",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071621.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "6c1da7a413b8f42bb5bc4a23e6714e1db8ead163",
+      "title": "习近平夫妇出席金正恩夫妇举行的小范围午宴",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071615.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "05294140f50fe9f4a0d5795a20fde4f55213889e",
+      "title": "习近平和彭丽媛参谒中朝友谊塔",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071562.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "d7fc2cd00b4a7da9b04e6e07bf3111a59998b8f0",
+      "title": "高考英语作文题为“当运动遇见AI” 引导学生对外展示中国科技新成就",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260609_4692069.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "3200eef4272dd7416183c54d0e1a5da3075cdbb6",
+      "title": "3天接待观众11.2万人次 现场交易额2.26亿元 2026北京国际文旅消费博览会圆满落幕",
+      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202606/t20260609_4692064.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "1d9db4b9b0673e03e40fe0159a920985e7777db0",
+      "title": "103家京津冀档案馆共享民生档案",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202606/t20260609_4692074.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-09",
+      "fingerprint": "46779ce435a32086b57e976716612b0611bfecb3",
+      "title": "人民锐评：别让“算法枷锁”困住劳动者避险脚步",
+      "url": "https://opinion.people.com.cn/n1/2026/0609/c1003-40736729.html",
+      "category": "comments",
+      "source": "人民网评论"
     }
   ]
 }
