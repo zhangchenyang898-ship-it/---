@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-27",
-      "fingerprint": "3a2fd85c6a2ca00c3cfd043f7959ca6aef89e103",
-      "title": "绿电+智算 新技术新模式推动AI与能源“双向奔赴”",
-      "url": "https://news.cctv.com/2026/05/28/ARTIafXPBw5qcxyygLE3uwUK260528.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "666e3ef0d1dfd51cce1fe19286d37d36cdee868d",
-      "title": "树立和践行正确政绩观",
-      "url": "https://www.news.cn/zt/slhjxzqzjg/index.html",
-      "category": "top_politics",
-      "source": "新华社"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "fc3ba64714a1934a091c57ed801f4ddcbd4c7f67",
-      "title": "2026年前4个月全国规模以上工业企业利润增长18.2%",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070401.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "7ae064d80376ab652f95be09c13a8f9719e87d37",
-      "title": "总书记的人民情怀 | “必须深刻把握中国式现代化对教育、科技、人才的需求”",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070448.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "c6f9162a902c9c872758741c5a0320bd7d1cb677",
-      "title": "滨水如画 乐享自然 给市民带来亲近自然、多元共享的乐享空间",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260528_4669512.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "382644c1662adfd0985e5c97388721e1bc81a393",
-      "title": "上海市人民政府关于推进服务业扩能提质的实施意见",
-      "url": "https://www.shanghai.gov.cn/nw12344/20260527/5da1b7004eab483186d16dedb31cf013.html",
-      "category": "regional",
-      "source": "上海市人民政府"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "a5926de5a13053c7bda99da8df3a8360f622f283",
-      "title": "25场论坛实现智能体“听会” AI创新力量将齐聚北京智源大会",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260528_4669514.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "536c670b80017a9234adfcf83bc8dc467ada7fa8",
-      "title": "20位中青年德艺双馨艺术家获表彰 涵盖共13个艺术门类",
-      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202605/t20260528_4669516.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "224291e9c0dbc823d7ba991056aa5038e1d4a897",
-      "title": "人民锐评：收起刻薄的放大镜，别让实干者流汗又流泪",
-      "url": "https://opinion.people.com.cn/n1/2026/0526/c436867-40727769.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "273e383237038a75a1fa52ec75c78f5cc129b57c",
-      "title": "新华网评：“山海关不住”的“东北超”，为什么这么火？",
-      "url": "https://www.news.cn/comments/20260527/5f0e46d608a94253b50297bdf7c9f907/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
-      "report_date": "2026-05-27",
-      "fingerprint": "81216f2530fb92b2ac1ddd28d7cd52dfc77e183e",
-      "title": "新华网视评丨毕业论文审核，不能过度依赖AI",
-      "url": "https://www.news.cn/comments/20260527/18e7c8ada1fc4ed3a22f7eb423849e98/c.html",
-      "category": "comments",
-      "source": "新华网评论"
-    },
-    {
       "report_date": "2026-05-28",
       "fingerprint": "73148b95de109f2192b22bc92983b66540c0ac22",
       "title": "奔跑的三夏｜700公里抢收路背后的夏收保障网",
@@ -823,6 +735,94 @@
       "url": "https://opinion.people.com.cn/n1/2026/0609/c1003-40736729.html",
       "category": "comments",
       "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "ba9917600e3de07fd3894f2b6a9fc06342815c15",
+      "title": "搭建生态廊道 野生动物种群恢复加速",
+      "url": "https://news.cctv.com/2026/06/11/ARTIhmOEO6wQJy5hzOLKb0e1260611.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "666e3ef0d1dfd51cce1fe19286d37d36cdee868d",
+      "title": "树立和践行正确政绩观",
+      "url": "https://www.news.cn/zt/slhjxzqzjg/index.html",
+      "category": "top_politics",
+      "source": "新华社"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "a9367edcd0faac0a08d6b61c07d3464356de223e",
+      "title": "弘扬优良传统，密切团结协作——习近平总书记对朝鲜进行国事访问在中朝关系发展史上具有重要里程碑意义",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071734.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "133a4a33cc0622cf62e189e6136edb9206da9d60",
+      "title": "郑栅洁主任主持召开经济形势专家座谈会 围绕当前经济形势和做好下一步经济工作听取意见建议",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260610_1405810.html",
+      "category": "policy",
+      "source": "国家发展改革委"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "daa0033dd520e02f0c24879832fb8f4fddf5edb5",
+      "title": "让中朝传统友谊之树更加根深叶茂——习近平总书记对朝鲜进行国事访问纪实",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071776.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "114d6ecad6c360f28a357a526b5909e8d539200e",
+      "title": "习近平出席金正恩举行的欢送仪式",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071619.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "638ed5989ff17314d04393efbb8d3ecbe64a4a36",
+      "title": "北京公安出入境延时专场来啦 随到随办！具体时间和位置公布",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260610_4694367.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "023938ce3785435c7ca716a63592fab6942b7c71",
+      "title": "关于印发《黄浦区中小微企业贷款贴息支持办法》的通知",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260610/0222ecf227bb40e582651937663ffc2b.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "68384aadbc83c0197e739e1418ff53c9d2655cab",
+      "title": "公交专用道实施白色新标线 将随道路翻修逐渐替代现有黄色标线 注意不要误闯",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260610_4693618.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "74eef1d5c38b59102a75880416013f61ad4144ed",
+      "title": "6月至7月中旬暑期办证高峰 11个出入境大厅推延时服务",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260610_4693620.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-10",
+      "fingerprint": "923627517d481cd68652e7e4450f7a46e5c12759",
+      "title": "10家公证处双休日开放办证 全力满足群众休息日办证需求",
+      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260610_4693619.html",
+      "category": "regional",
+      "source": "首都之窗"
     }
   ]
 }
