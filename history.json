@@ -1,70 +1,6 @@
 {
   "items": [
     {
-      "report_date": "2026-05-28",
-      "fingerprint": "73148b95de109f2192b22bc92983b66540c0ac22",
-      "title": "奔跑的三夏｜700公里抢收路背后的夏收保障网",
-      "url": "https://news.cctv.com/2026/05/29/ARTINMSH8MXxYU2gmI2FDvRD260528.shtml",
-      "category": "top_politics",
-      "source": "央视网"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "b56a030dffba1119a88f48d26e8da1ca00dbab59",
-      "title": "习近平复信参加“共航蔚蓝：中美青年友谊行”活动的两国学生",
-      "url": "https://www.gov.cn/yaowen/liebiao/202605/content_7070492.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "fc482c774af921b642d89270a9733a9cd89744ef",
-      "title": "《城市更新“十五五”规划》发布",
-      "url": "https://www.gov.cn/zhengce/jiedu/tujie/202605/content_7070581.htm",
-      "category": "policy",
-      "source": "中国政府网"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "e18f8672c2618e6d05865f9811b677776d49063e",
-      "title": "本市发布推动城市高质量发展实施意见 2035年初步建成国际一流的和谐宜居之都",
-      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202605/t20260529_4671335.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "c41c73fd68d0c8936c8811f8526df129708402a5",
-      "title": "服务赋能智造 两业强强联合",
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202605/t20260529_4671326.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "447f909eb29b31913b46e4f209d956a0867dd878",
-      "title": "修复站前广场 新增非机动车停车位 开通微循环公交 45个地铁站完成接驳优化",
-      "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202605/t20260529_4671342.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "828d9b7b05cd7ffc8586bfd39cb062d622824711",
-      "title": "串珠成链 水岸焕新 北京20个滨水空间项目将在年内开启改造提升",
-      "url": "https://www.beijing.gov.cn/ywdt/yaowen/202605/t20260529_4671323.html",
-      "category": "regional",
-      "source": "首都之窗"
-    },
-    {
-      "report_date": "2026-05-28",
-      "fingerprint": "4e32b810cf80225f5a9bec15ae093c140093bcc8",
-      "title": "5000美元换来5万棵树 跨越时代和国界的人性共情",
-      "url": "https://opinion.people.com.cn/n1/2026/0528/c223228-40729403.html",
-      "category": "comments",
-      "source": "人民网评论"
-    },
-    {
       "report_date": "2026-05-30",
       "fingerprint": "fb5a8e715ea77b8f3d6448879a625be9b7a8f7be",
       "title": "赏花品果 各地探索多样绿化方案",
@@ -823,6 +759,78 @@
       "url": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202606/t20260610_4693619.html",
       "category": "regional",
       "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "d0bcda094ef1158f01aa925b511634e5a0f05ad6",
+      "title": "坐着火车去旅行，将会是怎样的场景？",
+      "url": "https://news.cctv.com/2026/06/12/ARTIxfVq0dp3fwNElCqD2iIg260612.shtml",
+      "category": "top_politics",
+      "source": "央视网"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "a6930dcdea250ab3fc4527b888c814ec64e20c83",
+      "title": "《习近平外交文选》第一卷、第二卷出版发行",
+      "url": "https://www.gov.cn/yaowen/liebiao/202606/content_7071837.htm",
+      "category": "policy",
+      "source": "中国政府网"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "67f01a6f42afdaf532d6fc658331b020a1520267",
+      "title": "市政府召开常务会议 研究“十五五”时期高精尖产业发展等事项",
+      "url": "https://www.beijing.gov.cn/ywdt/hyxx/szf/202606/t20260612_4697026.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "908314bb14400ba52154a4f539c0cfbb42a856b4",
+      "title": "市政府新闻发布会介绍2026“上海之夏”国际消费季的总体安排",
+      "url": "https://www.shanghai.gov.cn/nw12344/20260611/fa3aaf735fed44d5b21833cdb4741cb3.html",
+      "category": "regional",
+      "source": "上海市人民政府"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "fdd62c180bcd461fc296b1a31a773736244d4ec7",
+      "title": "145家全国重点实验室落户北京 数量居全国首位 将探索集群式发展",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202606/t20260612_4697053.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "39726b134c9427abc18b2fdae10d8aa3acd32f98",
+      "title": "钻子岭水库、二道河水库、西峰山水库、永定河官厅山峡洪水控制工程、拒马河张坊洪水控制工程陆续启动规划建设 本市山区将添5座防洪水库",
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202606/t20260612_4697054.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "b950e25e11bcd22fc668e8134d08ff283394e746",
+      "title": "“门前三包”怎么划？本市出新规——站口到人行道路缘石归地铁“包干区”",
+      "url": "https://www.beijing.gov.cn/zhengce/zcjd/202606/t20260612_4697027.html",
+      "category": "regional",
+      "source": "首都之窗"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "f35ad04a60e4c01c4030f42072bf4499e1dfe7dd",
+      "title": "人民锐评：再谈近期出圈的三件事",
+      "url": "https://opinion.people.com.cn/n1/2026/0611/c436867-40738398.html",
+      "category": "comments",
+      "source": "人民网评论"
+    },
+    {
+      "report_date": "2026-06-11",
+      "fingerprint": "e9116bcd78abce3e065dd026151d3b53c194b8ce",
+      "title": "新华网视评丨不要让“孤独树”成为流量时代的尴尬注脚",
+      "url": "https://www.news.cn/comments/20260611/392c6df8934448df8e985ac238b5367a/c.html",
+      "category": "comments",
+      "source": "新华网评论"
     }
   ]
 }
